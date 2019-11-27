@@ -1,0 +1,546 @@
+---------------------------------
+       App 8: File Searcher
+---------------------------------
+Searching C:\Users\b59mi\Python_Projects\App8_File_Searcher_App\books for 'doubt'
+
+Reading file: C:\Users\b59mi\Python_Projects\App8_File_Searcher_App\books\Les Miserables.txt
+
+On line 2504: of the roads, no doubt. I do not know you, I tell you. You have told me
+
+On line 2599: The conventionary doubted not that he had successively conquered all the
+
+On line 2767: This is, no doubt, what the Bishop of D---- thought.
+
+On line 2888: endowed, skilful, accepted by the world, who know how to pray, no doubt,
+
+On line 3658: without doubt, that it was, in fact, the dwelling of a road-laborer; he
+
+On line 3768: doubt. Some one might have given you a lodging out of charity."
+
+On line 3975: As he opened his mouth, doubtless to ask the new-comer what he desired,
+
+On line 4032: of doubt, of joy, and became extraordinary. He began stammering like a
+
+On line 4285: thinking, no doubt, that this man, whose name is Jean Valjean, had his
+
+On line 4843: doubtless, think that same thing which Jean Valjean thought.
+
+On line 5676: doubt already far away.
+
+On line 5768: form the education of the intelligence; nevertheless, it is doubtful
+
+On line 5781: That which was certain, that which he did not doubt, was that he was no
+
+On line 6185: addition to this he doubted everything to the last degree, which is a
+
+On line 6900: One lies, but one laughs. One affirms, but one doubts. The unexpected
+
+On line 8131: doubtless a cousin of the late Bishop of D----?"
+
+On line 9146: small effect which he produced no doubt piqued the lounger; and taking
+
+On line 9209: conscience, his redoubtable discretionary power. At that moment he was
+
+On line 9574: is as you say,--and I do not doubt it,--you have never ceased to be
+
+On line 10545: The reader has, no doubt, already divined that M. Madeleine is no other
+
+On line 10630: It would be beautiful, no doubt, after the Bishop's holy words, after
+
+On line 10774: conscience which stirs up all that there is doubtful in the heart, which
+
+On line 11082: doubt, blue with cold at this moment in the den of those Thénardiers;
+
+On line 11163: over, one could have readily recognized a coin,--no doubt the forty-sou
+
+On line 11536: To Arras, no doubt; but he might have been going elsewhere as well.
+
+On line 11565: That it was, no doubt, a dark moment, but that he should emerge from it;
+
+On line 11765: "Without doubt. But will this horse bear the saddle?"
+
+On line 12279: truth to the invalid would, without doubt, deal her a terrible blow, and
+
+On line 12375: that M. Madeleine was absent for a day or two, and that in their doubt
+
+On line 12718: doubt, the _9th of June_, of the year II., and in which Pache forwarded
+
+On line 12721: had watched him, would have imagined, doubtless, that this letter struck
+
+On line 12947: contrary? No doubt that branch had been broken off and concealed after
+
+On line 12949: was no doubt that there had been a thief in the case. But what proof
+
+On line 12967: thinking, no doubt, that he would save everything by admitting nothing.
+
+On line 13665: doubt, that he found not a word of reply. She continued:--
+
+On line 13986: thing which she did not doubt was that he had come to get her. She could
+
+On line 14162: exists no doubt is, that Sister Simplice, the sole witness of the
+
+On line 14266: woman, no doubt."
+
+On line 14840: cannon-ball. A redoubtable method, and one which, united with genius,
+
+On line 14900: which contain illusions, no doubt; we possess neither military practice
+
+On line 15034: valiant in the presence of our redoubtable infantry; their inexperience
+
+On line 15177: The battery, which, if completed, would have been almost a redoubt, was
+
+On line 15552: Nothing like it had been seen since the taking of the great redoubt of
+
+On line 15563: this vision appeared, no doubt, in the ancient Orphic epics, which told
+
+On line 15758: The English army was profoundly shaken. There is no doubt that, had they
+
+On line 16027: doubt, that they were not more entirely the conquerors. The pursuit was
+
+On line 16198: living redoubt lay prone, and hardly was there discernible, here and
+
+On line 18161: And her mother, no doubt, alas!
+
+On line 20654: back turned towards this door, by way of greater security, no doubt. The
+
+On line 20678: revers thicknesses of paper. More thousand-franc bank-bills, no doubt!
+
+On line 20936: one, finding nothing which suited him. He had no doubt that if any one
+
+On line 21188: Petit-Picpus, he recoiled. There could be no doubt of it. That phantom
+
+On line 21195: squad without a doubt. Javert was probably already at the commencement
+
+On line 21339: the redoubtable talents of a convict. He rummaged in the one or the
+
+On line 21708: they had, no doubt, left people on the watch in the street; that if this
+
+On line 21987: in such formal terms that Javert did not doubt it. He confined himself
+
+On line 22036: was mentioned to him. He understood nothing about it; no doubt he had
+
+On line 22079: official; Javert cherished very grave doubts; and when in doubt, Javert,
+
+On line 22116: arrested Jean Valjean? Because he was still in doubt.
+
+On line 22132: prefect. He was really in doubt.
+
+On line 22155: doubt, take refuge. All these turns which he was making through the
+
+On line 22742: remarkable that these performances, tolerated and encouraged, no doubt,
+
+On line 23047: was some doubt about this. She glided rather than walked, she never
+
+On line 23087: visited the community, whither they penetrated, no doubt, in virtue of
+
+On line 23121: and who, no doubt, played on all these souls at the same time. There
+
+On line 23432: Some holy book, no doubt? Some unique chaplet? Some authentic relic?
+
+On line 23983: With nihilism, no discussion is possible; for the nihilist logic doubts
+
+On line 24798: No doubt, it is not granted to every one to die, like Cardinal de
+
+On line 25006: "No one doubts the right of the monastery to sepulture. Only fanatics
+
+On line 25591: doubtful as to his success.
+
+On line 25811: He, like Fauchelevent, counted on Father Mestienne. He had no doubt
+
+On line 26474: cemetery, public order had no doubt been deeply disturbed thereby, but
+
+On line 28298: Marne, the banks of the Aisne, and the redoubtable position of Laon. At
+
+On line 28554: doubt, of the Duchesses de Longueville and de Chevreuse, preferred this
+
+On line 29129: having his spots, no doubt, his faults, his crimes even, being a man,
+
+On line 29930: conflagration. A conflagration can create an aurora, no doubt, but why
+
+On line 30232: its flight. Grantaire, in whom writhed doubt, loved to watch faith
+
+On line 30981: him a trace of inward fermentation which was on the point, no doubt, of
+
+On line 31019: himself that he would not doubt, and he began to doubt in spite of
+
+On line 31023: was clear-eyed, and he required the true light. The half-lights of doubt
+
+On line 31445: before the enemy; and that that was, no doubt, what the colonel had
+
+On line 31522: well lodged! Fifteen hundred francs! No doubt. But renounce his liberty!
+
+On line 32177: man, a sister of the former, no doubt. But when the invariable habit of
+
+On line 32289: them. He was going to pass an examination, no doubt. He looked utterly
+
+On line 32864: recognize; beyond that degree it is doubtful and mixed; lower down,
+
+On line 33405: finds himself in the greatest missery. He doubts not that your honorable
+
+On line 33603: She called Marius by his name; he could not doubt that he was the person
+
+On line 33940: doubt, very vile, very odious even; but those who fall without becoming
+
+On line 34102: No doubt the younger sister of the one who had come to his room.
+
+On line 34697: no doubt, not yet regained his carriage; if, on turning round in the
+
+On line 34762: contemplation, it is doubtful whether he had heard this.
+
+On line 35021: Marius could not doubt that it was really she of whom they were
+
+On line 35036: intonation. The pronunciation of a few words, the name, no doubt, which
+
+On line 35351: his daughter with him, no doubt.
+
+On line 36664: listening. The last possibility of doubt had just vanished. It certainly
+
+On line 38452: in the presence of a witness whom we are not permitted to doubt, he
+
+On line 39918: de Grenelle were situated the domiciles of the three very redoubtable
+
+On line 40511: related heretofore, the reader has, doubtless, been no less prompt than
+
+On line 41065: and she was assailed with doubts: "Where did I get such an idea?" said
+
+On line 41098: there could no longer be any doubt of that; she descended to the garden
+
+On line 41392: accidental, no doubt, certainly, but it was a menacing accident.
+
+On line 42227: child in the second, would make but two mouthfuls for that redoubtable
+
+On line 42383: than twenty years ago, and who have, no doubt, a mother still alive! I
+
+On line 42410: Who was this goodman? The reader has, no doubt, already divined.
+
+On line 42468: had a cigar in his mouth. Cosette thought that this officer doubtless
+
+On line 42716: fear was genuine; the stone was there. No doubt was possible; she did
+
+On line 43944: became transfigured; he assumed a tranquil and redoubtable appearance in
+
+On line 44500: As for his cry of _Kirikikiou_,--that was, doubtless, what the child had
+
+On line 44651: redoubtable ruffians were on the roof. The wind and rain redoubled, the
+
+On line 45254: No doubt. But say what we will, this manner of understanding the word
+
+On line 45967: We should do wrong were we to doubt this blessed consummation.
+
+On line 45995: finished by the nineteenth. He who doubts this is an idiot! The future
+
+On line 47401: goodman. Lieutenant Théodule was gay, no doubt, but a chatter-box,
+
+On line 48323: "No doubt, historically, uprisings have their beauty; the war of the
+
+On line 50769: was not visible. The two barricades united formed a veritable redoubt.
+
+On line 50772: an issue into the Halles, wishing, no doubt, to preserve a possible
+
+On line 50818: loaded, the sentinels stationed, they waited, alone in those redoubtable
+
+On line 50842: converted into a casement, a couple of paces distant from the redoubt
+
+On line 50969: on the threshold of redoubtable events. He went in search of Gavroche,
+
+On line 51289: slowly spread over his redoubtable serenity. All at once he raised his
+
+On line 51486: redoubt and their stronghold, would have appeared to him like a dark and
+
+On line 51943: without any doubt, it was again the object of their aim, was simply
+
+On line 52103: The moment was critical. It was that first, redoubtable moment of
+
+On line 52216: resolution, drooping the flame of the torch towards that redoubtable
+
+On line 52286: this impregnable redoubt. The insurgents had posted sentinels, and some
+
+On line 52373: This time he could not doubt that he had heard it distinctly; he looked
+
+On line 52467: She paused, and overstepping the sombre transitions that undoubtedly
+
+On line 53016: father, I no longer exist"; when he could no longer doubt, when he said
+
+On line 53100: the most profound depths of our thought. It was, no doubt, under the
+
+On line 53643: aspects, of a redoubtable situation, sprang from the earth at the time
+
+On line 53673: It was of this rabble that Saint Jerome was thinking, no doubt, and of
+
+On line 53755: something of the cess-pool in that redoubt and something Olympian in
+
+On line 53772: the carbines which defended this redoubt, among which there were some
+
+On line 53798: The faubourg and its redoubt lent each other assistance. The faubourg
+
+On line 53799: shouldered the redoubt, the redoubt took its stand under cover of the
+
+On line 53807: redoubt, a wild beast in its boar-like bristling and a mountain by its
+
+On line 53862: column, gravely and thoughtfully, watched this dismal redoubt, this
+
+On line 53883: the Temple was silence. The difference between these two redoubts was
+
+On line 53938: confusion. The redoubt had been cleverly made over, into a wall on the
+
+On line 53948: fallen weapons re-distributed, the interior of the redoubt cleaned, the
+
+On line 54103: smile. They had no more doubt as to their success than as to their
+
+On line 54437: At the moment when Jean Valjean entered the redoubt, no one had noticed
+
+On line 54483: varied; and he remained of that epic and redoubtable school which is
+
+On line 54852: The anxiety in the redoubt was profound.
+
+On line 54944: The assailants, dissatisfied, no doubt, with their shot, had not
+
+On line 54971: The charge had been aimed at the cut in the redoubt, and had there
+
+On line 54988: to that predestined and redoubtable weapon which, by dint of perfecting
+
+On line 55283: silence on the part of the redoubt began to render the besiegers uneasy,
+
+On line 55396: mown down point-blank at the very foot of the redoubt, and this
+
+On line 55425: redoubts abound. Paris quivers supremely, the _quid divinum_ is given
+
+On line 55566: blank at the redoubt; the platoon firing of the line and of the soldiers
+
+On line 55570: the two guns were furiously attacking the redoubt from the Rue de la
+
+On line 55586: summit of the redoubt, and to compel them to gather close in the
+
+On line 55592: without being seen, could briskly and suddenly scale the redoubt, as on
+
+On line 55626: slope of the redoubt, into his basket.
+
+On line 55980: who was leading by the hand a little fellow of six. No doubt, a father
+
+On line 55987: no doubt.
+
+On line 56152: When Marius re-entered the redoubt with Gavroche in his arms, his face,
+
+On line 56189: a bachelor breakfast." The redoubt of the Rue de la Chanvrerie, we
+
+On line 56811: the manner in which they reasoned. Their aim was distant no doubt, vague
+
+On line 56975: unprotected but terrible, and replied to the redoubt with a terrible
+
+On line 57069: redoubtable of the seventeen abysses, which the Veda calls the Forest of
+
+On line 57139: had made a rather large hollow in the middle of the redoubt; there, the
+
+On line 57157: the lofty, six-story house which formed the background of their redoubt.
+
+On line 57160: had reached the interior of the redoubt, there was time for a door to
+
+On line 57172: the officer. He was now in the little inner court of the redoubt, with
+
+On line 57279: disfigured by wounds in the face during that redoubtable ascent, blinded
+
+On line 57442: succeeded. But we doubt whether he had thought of suicide, an
+
+On line 57899: Fagon attributed the redoubtable malignant fever of 1685 to the great
+
+On line 58015: rag which, arrested there in its passage, no doubt, had floated there in
+
+On line 59321: obstructed by a plug or a grating. Every outlet was, undoubtedly, closed
+
+On line 59424: Corneille--to such a degree that he doubted whether what he beheld was
+
+On line 59560: doubt this.
+
+On line 59653: The reader has divined, no doubt, that Thénardier's pursuer was no other
+
+On line 60506: To be granite and to doubt! to be the statue of Chastisement cast in one
+
+On line 60785: for he had neither haversack, nor bundle. From Paris, no doubt. Why was
+
+On line 60834: ago, is doubtless still there. Nothing equals a heap of stones in
+
+On line 61473: The reader has, no doubt, understood, without necessitating a lengthy
+
+On line 61868: benevolent and cold. There were moments when doubts as to his own
+
+On line 62042: He could not doubt his own identity. Still, how had it come to pass
+
+On line 62071: doubt it, unless he doubted his own identity, as we have just said.
+
+On line 63146: happiness? Should he treat it as belonging to him? No doubt, Cosette did
+
+On line 63575: have a father and mother? I almost doubt it. On the day when I gave that
+
+On line 64131: him to conceal and abolish in his memory that redoubtable adventure,
+
+On line 64175: might be, he was, undoubtedly, a conscience which was awakening. There
+
+On line 64945: his doubts as to the origin of the six hundred thousand francs, that he
+
+On line 64980: "You have company this evening, no doubt."
+
+On line 65303: than he had ever been before. Then, no doubt under the pressure of some
+
+On line 66026: could not doubt.
+
+On line 66786: The night was starless and extremely dark. No doubt, in the gloom, some
+
+Total instances found in Les Miserables.txt: 190
+
+Searching C:\Users\b59mi\Python_Projects\App8_File_Searcher_App\books\More Books for 'doubt'
+
+Searching C:\Users\b59mi\Python_Projects\App8_File_Searcher_App\books\More Books\Sci Fi for 'doubt'
+
+Reading file: C:\Users\b59mi\Python_Projects\App8_File_Searcher_App\books\More Books\Sci Fi\The Drivers.txt
+
+Total instances found in The Drivers.txt: 0
+
+Reading file: C:\Users\b59mi\Python_Projects\App8_File_Searcher_App\books\More Books\The Almost Men.txt
+
+On line 257: must make ourselves free again. And we shall; I have no doubt of it.
+
+On line 1249: there was doubt and fear in her eyes.
+
+On line 1396: "Undoubtedly, unless you solve our problem first--and these bars seem
+
+On line 2037: began to doubt the system I had trusted. I lost faith in my own world.
+
+On line 2043: doubtfully.
+
+Total instances found in The Almost Men.txt: 5
+
+Reading file: C:\Users\b59mi\Python_Projects\App8_File_Searcher_App\books\Pride and Prejudice.txt
+
+On line 566: good house and the liberty of a manor, it was doubtful to many of those
+
+On line 655: beyond a doubt, there cannot be two opinions on that point."
+
+On line 760: affection than she feels. Bingley likes your sister undoubtedly; but he
+
+On line 902: continued after a pause, on seeing Bingley join the group;--"and I doubt
+
+On line 1199: and doubt as to the occasion's justifying her coming so far alone. The
+
+On line 1444: "Are you so severe upon your own sex, as to doubt the possibility of all
+
+On line 1451: implied doubt, and were both protesting that they knew many women who
+
+On line 1462: "Undoubtedly," replied Darcy, to whom this remark was chiefly addressed,
+
+On line 2286:      breach; but for some time I was kept back by my own doubts, fearing
+
+On line 2321: conscientious and polite young man, upon my word; and I doubt not will
+
+On line 2367: not doubt her seeing them all in due time well disposed of in marriage.
+
+On line 2862: give me no hope from law. A man of honour could not have doubted the
+
+On line 2863: intention, but Mr. Darcy chose to doubt it--or to treat it as a merely
+
+On line 2994: are undoubtedly many who could not say the same, but thanks to Lady
+
+On line 3194: doubt of his being present had never occurred to her. The certainty of
+
+On line 3293: think it a faithful portrait undoubtedly."
+
+On line 3357: with a look of doubt.
+
+On line 3468: "I have not a doubt of Mr. Bingley's sincerity," said Elizabeth warmly;
+
+On line 3711: settlements, new carriages and wedding clothes, she should undoubtedly
+
+On line 3766: mother's permission for this address. You can hardly doubt the purport
+
+On line 4077: trust I am resigned. Perhaps not the less so from feeling a doubt of my
+
+On line 4236: together, can doubt his affection. Miss Bingley I am sure cannot. She is
+
+On line 4461: Elizabeth quietly answered "Undoubtedly;"--and after an awkward pause,
+
+On line 4483: she had heard, and doubting whether she were authorised to mention it,
+
+On line 4694: Miss Bingley's letter arrived, and put an end to doubt. The very first
+
+On line 4714: credit. That he was really fond of Jane, she doubted no more than she
+
+On line 4744: "You doubt me," cried Jane, slightly colouring; "indeed you have no
+
+On line 4835: "Beyond a doubt, they _do_ wish him to chuse Miss Darcy," replied Jane;
+
+On line 4962: doubtful, so indefinite, that it gives me very little idea. It is as
+
+On line 5510: doubt not but you will be honoured with some portion of her notice when
+
+On line 5775: "Aye, no doubt; but that is what a governess will prevent, and if I had
+
+On line 5868: reason for what she did, for Mr. Collins would undoubtedly have been
+
+On line 6299: doubted whether there were much admiration in it, and sometimes it
+
+On line 6306: opinion it admitted not of a doubt, that all her friend's dislike would
+
+On line 6491: taken to separate Mr. Bingley and Jane, she had never doubted; but she
+
+On line 6575: doubted, and was silent. This he considered sufficient encouragement,
+
+On line 6594: his hand. As he said this, she could easily see that he had no doubt of
+
+On line 6913:      witness of undoubted veracity. Mr. Wickham is the son of a very
+
+On line 6966:      could be little doubt, as he was well assured that I had no other
+
+On line 6971:      circumstances--and he was doubtless as violent in his abuse of me
+
+On line 6978:      doubt of your secrecy. My sister, who is more than ten years my
+
+On line 6983:      and thither also went Mr. Wickham, undoubtedly by design; for there
+
+On line 7626: to depreciate such pleasures. They would doubtless be congenial with
+
+On line 7832: "No. It would have been strange if they had. But I make no doubt, they
+
+On line 8475: Elizabeth listened, wondered, doubted, and was impatient for more. Mrs.
+
+On line 8889: doubt; but that the gentleman was overflowing with admiration was
+
+On line 9137: pain she was then giving her beloved friend, she undoubtedly would have
+
+On line 9367: from Brighton. _You_ know him too well to doubt the rest. She has no
+
+On line 9580: a point should admit of doubt. But, really, I know not what to say.
+
+On line 9829: doubt, I suppose, of their being really married?"
+
+On line 10583: doubted not, as the most generous of his sex. But while he was mortal,
+
+On line 10693: alacrity which shewed no doubt of their happiness.
+
+On line 11014:      _this_; though I doubt whether _his_ reserve, or _anybody's_
+
+On line 11140: "Undoubtedly. Did you see him while you were at Lambton? I thought I
+
+On line 11886: thinking you will be so happily settled. I have not a doubt of your
+
+On line 12353: settle every doubt, and determine him at once to be as happy, as dignity
+
+On line 12662: doubt of my reception. You shewed me how insufficient were all my
+
+On line 12728: unabated, I felt no doubt of their happiness together."
+
+On line 12749: in any doubt of your sister's sentiments. He has heartily forgiven me
+
+On line 12793: Jane looked at her doubtingly. "Oh, Lizzy! it cannot be. I know how much
+
+On line 12809: "There can be no doubt of that. It is settled between us already, that
+
+On line 12869: shook hands with such warmth, as left no doubt of his good information;
+
+On line 12894: would take it; sometimes doubting whether all his wealth and grandeur
+
+On line 13008: This was enough to prove that her approbation need not be doubted: and
+
+On line 13105: removing all my doubts. I am not indebted for my present happiness to
+
+Total instances found in Pride and Prejudice.txt: 65
+
+Execution time: 0.08599305152893066

@@ -1,0 +1,6 @@
+D:\Documents\Business\C_Sharp_Projects\Chapter 9\StreamWriterMagnetsPage415\StreamWriterMagnetsPage415\bin\Debug\StreamWriterMagnetsPage415.exe.config
+D:\Documents\Business\C_Sharp_Projects\Chapter 9\StreamWriterMagnetsPage415\StreamWriterMagnetsPage415\bin\Debug\StreamWriterMagnetsPage415.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 9\StreamWriterMagnetsPage415\StreamWriterMagnetsPage415\bin\Debug\StreamWriterMagnetsPage415.pdb
+D:\Documents\Business\C_Sharp_Projects\Chapter 9\StreamWriterMagnetsPage415\StreamWriterMagnetsPage415\obj\Debug\StreamWriterMagnetsPage415.csprojAssemblyReference.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 9\StreamWriterMagnetsPage415\StreamWriterMagnetsPage415\obj\Debug\StreamWriterMagnetsPage415.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 9\StreamWriterMagnetsPage415\StreamWriterMagnetsPage415\obj\Debug\StreamWriterMagnetsPage415.pdb

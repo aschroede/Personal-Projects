@@ -1,0 +1,9 @@
+D:\Documents\Business\C_Sharp_Projects\Chapter 8\CodeMagnetsPage365\CodeMagnetsPage365\bin\Debug\CodeMagnetsPage365.exe.config
+D:\Documents\Business\C_Sharp_Projects\Chapter 8\CodeMagnetsPage365\CodeMagnetsPage365\bin\Debug\CodeMagnetsPage365.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 8\CodeMagnetsPage365\CodeMagnetsPage365\bin\Debug\CodeMagnetsPage365.pdb
+D:\Documents\Business\C_Sharp_Projects\Chapter 8\CodeMagnetsPage365\CodeMagnetsPage365\obj\Debug\CodeMagnetsPage365.csprojAssemblyReference.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 8\CodeMagnetsPage365\CodeMagnetsPage365\obj\Debug\CodeMagnetsPage365.Form1.resources
+D:\Documents\Business\C_Sharp_Projects\Chapter 8\CodeMagnetsPage365\CodeMagnetsPage365\obj\Debug\CodeMagnetsPage365.Properties.Resources.resources
+D:\Documents\Business\C_Sharp_Projects\Chapter 8\CodeMagnetsPage365\CodeMagnetsPage365\obj\Debug\CodeMagnetsPage365.csproj.GenerateResource.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 8\CodeMagnetsPage365\CodeMagnetsPage365\obj\Debug\CodeMagnetsPage365.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 8\CodeMagnetsPage365\CodeMagnetsPage365\obj\Debug\CodeMagnetsPage365.pdb

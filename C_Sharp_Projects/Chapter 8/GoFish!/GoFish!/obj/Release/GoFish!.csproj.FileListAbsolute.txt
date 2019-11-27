@@ -1,0 +1,9 @@
+D:\Documents\Business\C_Sharp_Projects\Chapter 8\GoFish!\GoFish!\bin\Release\GoFish!.exe.config
+D:\Documents\Business\C_Sharp_Projects\Chapter 8\GoFish!\GoFish!\bin\Release\GoFish!.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 8\GoFish!\GoFish!\bin\Release\GoFish!.pdb
+D:\Documents\Business\C_Sharp_Projects\Chapter 8\GoFish!\GoFish!\obj\Release\GoFish!.csprojAssemblyReference.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 8\GoFish!\GoFish!\obj\Release\GoFish_.Form1.resources
+D:\Documents\Business\C_Sharp_Projects\Chapter 8\GoFish!\GoFish!\obj\Release\GoFish_.Properties.Resources.resources
+D:\Documents\Business\C_Sharp_Projects\Chapter 8\GoFish!\GoFish!\obj\Release\GoFish!.csproj.GenerateResource.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 8\GoFish!\GoFish!\obj\Release\GoFish!.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 8\GoFish!\GoFish!\obj\Release\GoFish!.pdb

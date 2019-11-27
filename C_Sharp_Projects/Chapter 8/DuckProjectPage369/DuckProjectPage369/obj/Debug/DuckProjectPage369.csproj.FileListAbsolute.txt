@@ -1,0 +1,6 @@
+D:\Documents\Business\C_Sharp_Projects\Chapter 8\DuckProjectPage369\DuckProjectPage369\bin\Debug\DuckProjectPage369.exe.config
+D:\Documents\Business\C_Sharp_Projects\Chapter 8\DuckProjectPage369\DuckProjectPage369\bin\Debug\DuckProjectPage369.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 8\DuckProjectPage369\DuckProjectPage369\bin\Debug\DuckProjectPage369.pdb
+D:\Documents\Business\C_Sharp_Projects\Chapter 8\DuckProjectPage369\DuckProjectPage369\obj\Debug\DuckProjectPage369.csprojAssemblyReference.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 8\DuckProjectPage369\DuckProjectPage369\obj\Debug\DuckProjectPage369.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 8\DuckProjectPage369\DuckProjectPage369\obj\Debug\DuckProjectPage369.pdb

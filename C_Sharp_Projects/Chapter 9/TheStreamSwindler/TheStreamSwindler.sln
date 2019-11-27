@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheStreamSwindler", "TheStreamSwindler\TheStreamSwindler.csproj", "{77E52796-FF7C-4651-8804-007531CF4237}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77E52796-FF7C-4651-8804-007531CF4237}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77E52796-FF7C-4651-8804-007531CF4237}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77E52796-FF7C-4651-8804-007531CF4237}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77E52796-FF7C-4651-8804-007531CF4237}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C728EEAC-6AF6-424F-996A-0E7AE6B54EC8}
+	EndGlobalSection
+EndGlobal

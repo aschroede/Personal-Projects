@@ -1,0 +1,17 @@
+D:\Documents\Business\C_Sharp_Projects\Chapter 7\HideAndSeek\HideAndSeekConsoleApp\bin\Debug\HideAndSeekConsoleApp.exe.config
+D:\Documents\Business\C_Sharp_Projects\Chapter 7\HideAndSeek\HideAndSeekConsoleApp\bin\Debug\HideAndSeekConsoleApp.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 7\HideAndSeek\HideAndSeekConsoleApp\bin\Debug\HideAndSeekConsoleApp.pdb
+D:\Documents\Business\C_Sharp_Projects\Chapter 7\HideAndSeek\HideAndSeekConsoleApp\bin\Debug\HideAndSeek.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 7\HideAndSeek\HideAndSeekConsoleApp\bin\Debug\Serilog.dll
+D:\Documents\Business\C_Sharp_Projects\Chapter 7\HideAndSeek\HideAndSeekConsoleApp\bin\Debug\Serilog.Sinks.Console.dll
+D:\Documents\Business\C_Sharp_Projects\Chapter 7\HideAndSeek\HideAndSeekConsoleApp\bin\Debug\Serilog.Sinks.File.dll
+D:\Documents\Business\C_Sharp_Projects\Chapter 7\HideAndSeek\HideAndSeekConsoleApp\bin\Debug\HideAndSeek.pdb
+D:\Documents\Business\C_Sharp_Projects\Chapter 7\HideAndSeek\HideAndSeekConsoleApp\bin\Debug\HideAndSeek.exe.config
+D:\Documents\Business\C_Sharp_Projects\Chapter 7\HideAndSeek\HideAndSeekConsoleApp\bin\Debug\Serilog.xml
+D:\Documents\Business\C_Sharp_Projects\Chapter 7\HideAndSeek\HideAndSeekConsoleApp\bin\Debug\Serilog.Sinks.Console.xml
+D:\Documents\Business\C_Sharp_Projects\Chapter 7\HideAndSeek\HideAndSeekConsoleApp\bin\Debug\Serilog.Sinks.File.pdb
+D:\Documents\Business\C_Sharp_Projects\Chapter 7\HideAndSeek\HideAndSeekConsoleApp\bin\Debug\Serilog.Sinks.File.xml
+D:\Documents\Business\C_Sharp_Projects\Chapter 7\HideAndSeek\HideAndSeekConsoleApp\obj\Debug\HideAndSeekConsoleApp.csprojAssemblyReference.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 7\HideAndSeek\HideAndSeekConsoleApp\obj\Debug\HideAndSeekConsoleApp.csproj.CopyComplete
+D:\Documents\Business\C_Sharp_Projects\Chapter 7\HideAndSeek\HideAndSeekConsoleApp\obj\Debug\HideAndSeekConsoleApp.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 7\HideAndSeek\HideAndSeekConsoleApp\obj\Debug\HideAndSeekConsoleApp.pdb

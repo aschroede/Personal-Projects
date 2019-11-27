@@ -1,0 +1,7 @@
+D:\Documents\Business\C_Sharp_Projects\Chapter 6\DoThisPage266\DoThisPage266\bin\Debug\DoThisPage266.exe.config
+D:\Documents\Business\C_Sharp_Projects\Chapter 6\DoThisPage266\DoThisPage266\bin\Debug\DoThisPage266.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 6\DoThisPage266\DoThisPage266\bin\Debug\DoThisPage266.pdb
+D:\Documents\Business\C_Sharp_Projects\Chapter 6\DoThisPage266\DoThisPage266\obj\Debug\DoThisPage266.csprojAssemblyReference.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 6\DoThisPage266\DoThisPage266\obj\Debug\DoThisPage266.csproj.CoreCompileInputs.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 6\DoThisPage266\DoThisPage266\obj\Debug\DoThisPage266.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 6\DoThisPage266\DoThisPage266\obj\Debug\DoThisPage266.pdb

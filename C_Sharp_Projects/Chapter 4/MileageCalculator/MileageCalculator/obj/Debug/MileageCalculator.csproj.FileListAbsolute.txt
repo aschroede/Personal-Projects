@@ -1,0 +1,10 @@
+D:\Documents\Business\C_Sharp_Projects\Chapter 4\MileageCalculator\MileageCalculator\bin\Debug\MileageCalculator.exe.config
+D:\Documents\Business\C_Sharp_Projects\Chapter 4\MileageCalculator\MileageCalculator\bin\Debug\MileageCalculator.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 4\MileageCalculator\MileageCalculator\bin\Debug\MileageCalculator.pdb
+D:\Documents\Business\C_Sharp_Projects\Chapter 4\MileageCalculator\MileageCalculator\obj\Debug\MileageCalculator.csprojAssemblyReference.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 4\MileageCalculator\MileageCalculator\obj\Debug\MileageCalculator.Form1.resources
+D:\Documents\Business\C_Sharp_Projects\Chapter 4\MileageCalculator\MileageCalculator\obj\Debug\MileageCalculator.Properties.Resources.resources
+D:\Documents\Business\C_Sharp_Projects\Chapter 4\MileageCalculator\MileageCalculator\obj\Debug\MileageCalculator.csproj.GenerateResource.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 4\MileageCalculator\MileageCalculator\obj\Debug\MileageCalculator.csproj.CoreCompileInputs.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 4\MileageCalculator\MileageCalculator\obj\Debug\MileageCalculator.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 4\MileageCalculator\MileageCalculator\obj\Debug\MileageCalculator.pdb

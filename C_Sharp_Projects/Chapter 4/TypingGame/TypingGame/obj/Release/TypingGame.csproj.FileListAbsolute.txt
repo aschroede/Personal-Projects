@@ -1,0 +1,10 @@
+D:\Documents\Business\C_Sharp_Projects\Chapter 4\TypingGame\TypingGame\bin\Release\TypingGame.exe.config
+D:\Documents\Business\C_Sharp_Projects\Chapter 4\TypingGame\TypingGame\bin\Release\TypingGame.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 4\TypingGame\TypingGame\bin\Release\TypingGame.pdb
+D:\Documents\Business\C_Sharp_Projects\Chapter 4\TypingGame\TypingGame\obj\Release\TypingGame.csprojAssemblyReference.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 4\TypingGame\TypingGame\obj\Release\TypingGame.Form1.resources
+D:\Documents\Business\C_Sharp_Projects\Chapter 4\TypingGame\TypingGame\obj\Release\TypingGame.Properties.Resources.resources
+D:\Documents\Business\C_Sharp_Projects\Chapter 4\TypingGame\TypingGame\obj\Release\TypingGame.csproj.GenerateResource.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 4\TypingGame\TypingGame\obj\Release\TypingGame.csproj.CoreCompileInputs.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 4\TypingGame\TypingGame\obj\Release\TypingGame.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 4\TypingGame\TypingGame\obj\Release\TypingGame.pdb

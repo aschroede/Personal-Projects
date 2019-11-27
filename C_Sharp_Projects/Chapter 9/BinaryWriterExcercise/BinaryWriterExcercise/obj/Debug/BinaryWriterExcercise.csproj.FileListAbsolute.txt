@@ -1,0 +1,6 @@
+D:\Documents\Business\C_Sharp_Projects\Chapter 9\BinaryWriterExcercise\BinaryWriterExcercise\bin\Debug\BinaryWriterExcercise.exe.config
+D:\Documents\Business\C_Sharp_Projects\Chapter 9\BinaryWriterExcercise\BinaryWriterExcercise\bin\Debug\BinaryWriterExcercise.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 9\BinaryWriterExcercise\BinaryWriterExcercise\bin\Debug\BinaryWriterExcercise.pdb
+D:\Documents\Business\C_Sharp_Projects\Chapter 9\BinaryWriterExcercise\BinaryWriterExcercise\obj\Debug\BinaryWriterExcercise.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 9\BinaryWriterExcercise\BinaryWriterExcercise\obj\Debug\BinaryWriterExcercise.pdb
+D:\Documents\Business\C_Sharp_Projects\Chapter 9\BinaryWriterExcercise\BinaryWriterExcercise\obj\Debug\BinaryWriterExcercise.csprojAssemblyReference.cache

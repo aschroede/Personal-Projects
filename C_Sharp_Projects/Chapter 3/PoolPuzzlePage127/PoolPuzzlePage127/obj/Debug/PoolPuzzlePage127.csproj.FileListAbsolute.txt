@@ -1,0 +1,10 @@
+D:\Documents\Business\C_Sharp_Projects\Chapter 3\PoolPuzzlePage127\PoolPuzzlePage127\bin\Debug\PoolPuzzlePage127.exe.config
+D:\Documents\Business\C_Sharp_Projects\Chapter 3\PoolPuzzlePage127\PoolPuzzlePage127\bin\Debug\PoolPuzzlePage127.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 3\PoolPuzzlePage127\PoolPuzzlePage127\bin\Debug\PoolPuzzlePage127.pdb
+D:\Documents\Business\C_Sharp_Projects\Chapter 3\PoolPuzzlePage127\PoolPuzzlePage127\obj\Debug\PoolPuzzlePage127.csprojAssemblyReference.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 3\PoolPuzzlePage127\PoolPuzzlePage127\obj\Debug\PoolPuzzlePage127.Form1.resources
+D:\Documents\Business\C_Sharp_Projects\Chapter 3\PoolPuzzlePage127\PoolPuzzlePage127\obj\Debug\PoolPuzzlePage127.Properties.Resources.resources
+D:\Documents\Business\C_Sharp_Projects\Chapter 3\PoolPuzzlePage127\PoolPuzzlePage127\obj\Debug\PoolPuzzlePage127.csproj.GenerateResource.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 3\PoolPuzzlePage127\PoolPuzzlePage127\obj\Debug\PoolPuzzlePage127.csproj.CoreCompileInputs.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 3\PoolPuzzlePage127\PoolPuzzlePage127\obj\Debug\PoolPuzzlePage127.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 3\PoolPuzzlePage127\PoolPuzzlePage127\obj\Debug\PoolPuzzlePage127.pdb

@@ -1,0 +1,10 @@
+D:\Documents\Business\C_Sharp_Projects\Chapter 5\DinnerParty\DinnerParty\bin\Debug\DinnerParty.exe.config
+D:\Documents\Business\C_Sharp_Projects\Chapter 5\DinnerParty\DinnerParty\bin\Debug\DinnerParty.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 5\DinnerParty\DinnerParty\bin\Debug\DinnerParty.pdb
+D:\Documents\Business\C_Sharp_Projects\Chapter 5\DinnerParty\DinnerParty\obj\Debug\DinnerParty.csprojAssemblyReference.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 5\DinnerParty\DinnerParty\obj\Debug\DinnerParty.Form1.resources
+D:\Documents\Business\C_Sharp_Projects\Chapter 5\DinnerParty\DinnerParty\obj\Debug\DinnerParty.Properties.Resources.resources
+D:\Documents\Business\C_Sharp_Projects\Chapter 5\DinnerParty\DinnerParty\obj\Debug\DinnerParty.csproj.GenerateResource.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 5\DinnerParty\DinnerParty\obj\Debug\DinnerParty.csproj.CoreCompileInputs.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 5\DinnerParty\DinnerParty\obj\Debug\DinnerParty.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 5\DinnerParty\DinnerParty\obj\Debug\DinnerParty.pdb

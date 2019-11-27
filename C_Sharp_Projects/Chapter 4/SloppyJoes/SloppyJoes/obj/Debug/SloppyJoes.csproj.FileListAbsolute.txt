@@ -1,0 +1,15 @@
+D:\Documents\Business\C_Sharp_Projects\Chapter 4\SloppyJoes\SloppyJoes\bin\Debug\SloppyJoes.exe.config
+D:\Documents\Business\C_Sharp_Projects\Chapter 4\SloppyJoes\SloppyJoes\bin\Debug\SloppyJoes.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 4\SloppyJoes\SloppyJoes\bin\Debug\SloppyJoes.pdb
+D:\Documents\Business\C_Sharp_Projects\Chapter 4\SloppyJoes\SloppyJoes\obj\Debug\SloppyJoes.csprojAssemblyReference.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 4\SloppyJoes\SloppyJoes\obj\Debug\MainWindow.g.cs
+D:\Documents\Business\C_Sharp_Projects\Chapter 4\SloppyJoes\SloppyJoes\obj\Debug\App.g.cs
+D:\Documents\Business\C_Sharp_Projects\Chapter 4\SloppyJoes\SloppyJoes\obj\Debug\SloppyJoes_MarkupCompile.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 4\SloppyJoes\SloppyJoes\obj\Debug\SloppyJoes_MarkupCompile.lref
+D:\Documents\Business\C_Sharp_Projects\Chapter 4\SloppyJoes\SloppyJoes\obj\Debug\MainWindow.baml
+D:\Documents\Business\C_Sharp_Projects\Chapter 4\SloppyJoes\SloppyJoes\obj\Debug\SloppyJoes.g.resources
+D:\Documents\Business\C_Sharp_Projects\Chapter 4\SloppyJoes\SloppyJoes\obj\Debug\SloppyJoes.Properties.Resources.resources
+D:\Documents\Business\C_Sharp_Projects\Chapter 4\SloppyJoes\SloppyJoes\obj\Debug\SloppyJoes.csproj.GenerateResource.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 4\SloppyJoes\SloppyJoes\obj\Debug\SloppyJoes.csproj.CoreCompileInputs.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 4\SloppyJoes\SloppyJoes\obj\Debug\SloppyJoes.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 4\SloppyJoes\SloppyJoes\obj\Debug\SloppyJoes.pdb

@@ -1,0 +1,9 @@
+D:\Documents\Business\C_Sharp_Projects\Chapter 3\GuysAppPage129\GuysAppPage129\bin\Debug\GuysAppPage129.exe.config
+D:\Documents\Business\C_Sharp_Projects\Chapter 3\GuysAppPage129\GuysAppPage129\bin\Debug\GuysAppPage129.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 3\GuysAppPage129\GuysAppPage129\bin\Debug\GuysAppPage129.pdb
+D:\Documents\Business\C_Sharp_Projects\Chapter 3\GuysAppPage129\GuysAppPage129\obj\Debug\GuysAppPage129.csprojAssemblyReference.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 3\GuysAppPage129\GuysAppPage129\obj\Debug\GuysAppPage129.Form1.resources
+D:\Documents\Business\C_Sharp_Projects\Chapter 3\GuysAppPage129\GuysAppPage129\obj\Debug\GuysAppPage129.Properties.Resources.resources
+D:\Documents\Business\C_Sharp_Projects\Chapter 3\GuysAppPage129\GuysAppPage129\obj\Debug\GuysAppPage129.csproj.GenerateResource.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 3\GuysAppPage129\GuysAppPage129\obj\Debug\GuysAppPage129.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 3\GuysAppPage129\GuysAppPage129\obj\Debug\GuysAppPage129.pdb

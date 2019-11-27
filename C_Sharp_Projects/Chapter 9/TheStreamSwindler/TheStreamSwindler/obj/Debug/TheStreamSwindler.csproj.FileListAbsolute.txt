@@ -1,0 +1,6 @@
+D:\Documents\Business\C_Sharp_Projects\Chapter 9\TheStreamSwindler\TheStreamSwindler\bin\Debug\TheStreamSwindler.exe.config
+D:\Documents\Business\C_Sharp_Projects\Chapter 9\TheStreamSwindler\TheStreamSwindler\bin\Debug\TheStreamSwindler.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 9\TheStreamSwindler\TheStreamSwindler\bin\Debug\TheStreamSwindler.pdb
+D:\Documents\Business\C_Sharp_Projects\Chapter 9\TheStreamSwindler\TheStreamSwindler\obj\Debug\TheStreamSwindler.csprojAssemblyReference.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 9\TheStreamSwindler\TheStreamSwindler\obj\Debug\TheStreamSwindler.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 9\TheStreamSwindler\TheStreamSwindler\obj\Debug\TheStreamSwindler.pdb

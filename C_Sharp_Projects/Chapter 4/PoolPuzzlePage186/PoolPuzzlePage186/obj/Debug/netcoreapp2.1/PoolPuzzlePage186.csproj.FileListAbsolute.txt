@@ -1,0 +1,11 @@
+D:\Documents\Business\C_Sharp_Projects\Chapter 4\PoolPuzzlePage186\PoolPuzzlePage186\obj\Debug\netcoreapp2.1\PoolPuzzlePage186.csprojAssemblyReference.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 4\PoolPuzzlePage186\PoolPuzzlePage186\obj\Debug\netcoreapp2.1\PoolPuzzlePage186.csproj.CoreCompileInputs.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 4\PoolPuzzlePage186\PoolPuzzlePage186\obj\Debug\netcoreapp2.1\PoolPuzzlePage186.AssemblyInfoInputs.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 4\PoolPuzzlePage186\PoolPuzzlePage186\obj\Debug\netcoreapp2.1\PoolPuzzlePage186.AssemblyInfo.cs
+D:\Documents\Business\C_Sharp_Projects\Chapter 4\PoolPuzzlePage186\PoolPuzzlePage186\bin\Debug\netcoreapp2.1\PoolPuzzlePage186.deps.json
+D:\Documents\Business\C_Sharp_Projects\Chapter 4\PoolPuzzlePage186\PoolPuzzlePage186\bin\Debug\netcoreapp2.1\PoolPuzzlePage186.runtimeconfig.json
+D:\Documents\Business\C_Sharp_Projects\Chapter 4\PoolPuzzlePage186\PoolPuzzlePage186\bin\Debug\netcoreapp2.1\PoolPuzzlePage186.runtimeconfig.dev.json
+D:\Documents\Business\C_Sharp_Projects\Chapter 4\PoolPuzzlePage186\PoolPuzzlePage186\bin\Debug\netcoreapp2.1\PoolPuzzlePage186.dll
+D:\Documents\Business\C_Sharp_Projects\Chapter 4\PoolPuzzlePage186\PoolPuzzlePage186\bin\Debug\netcoreapp2.1\PoolPuzzlePage186.pdb
+D:\Documents\Business\C_Sharp_Projects\Chapter 4\PoolPuzzlePage186\PoolPuzzlePage186\obj\Debug\netcoreapp2.1\PoolPuzzlePage186.dll
+D:\Documents\Business\C_Sharp_Projects\Chapter 4\PoolPuzzlePage186\PoolPuzzlePage186\obj\Debug\netcoreapp2.1\PoolPuzzlePage186.pdb

@@ -1,0 +1,10 @@
+D:\Documents\Business\C_Sharp_Projects\Chapter 6\BeeHiveManagementSystem\BeeHiveManagementSystem\bin\Debug\BeeHiveManagementSystem.exe.config
+D:\Documents\Business\C_Sharp_Projects\Chapter 6\BeeHiveManagementSystem\BeeHiveManagementSystem\bin\Debug\BeeHiveManagementSystem.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 6\BeeHiveManagementSystem\BeeHiveManagementSystem\bin\Debug\BeeHiveManagementSystem.pdb
+D:\Documents\Business\C_Sharp_Projects\Chapter 6\BeeHiveManagementSystem\BeeHiveManagementSystem\obj\Debug\BeeHiveManagementSystem.csprojAssemblyReference.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 6\BeeHiveManagementSystem\BeeHiveManagementSystem\obj\Debug\BeeHiveManagementSystem.Form1.resources
+D:\Documents\Business\C_Sharp_Projects\Chapter 6\BeeHiveManagementSystem\BeeHiveManagementSystem\obj\Debug\BeeHiveManagementSystem.Properties.Resources.resources
+D:\Documents\Business\C_Sharp_Projects\Chapter 6\BeeHiveManagementSystem\BeeHiveManagementSystem\obj\Debug\BeeHiveManagementSystem.csproj.GenerateResource.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 6\BeeHiveManagementSystem\BeeHiveManagementSystem\obj\Debug\BeeHiveManagementSystem.csproj.CoreCompileInputs.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 6\BeeHiveManagementSystem\BeeHiveManagementSystem\obj\Debug\BeeHiveManagementSystem.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 6\BeeHiveManagementSystem\BeeHiveManagementSystem\obj\Debug\BeeHiveManagementSystem.pdb

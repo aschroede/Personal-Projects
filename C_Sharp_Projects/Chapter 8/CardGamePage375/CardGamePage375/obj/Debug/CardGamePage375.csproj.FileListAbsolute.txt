@@ -1,0 +1,5 @@
+D:\Documents\Business\C_Sharp_Projects\Chapter 8\CardGamePage375\CardGamePage375\bin\Debug\CardGamePage375.exe.config
+D:\Documents\Business\C_Sharp_Projects\Chapter 8\CardGamePage375\CardGamePage375\bin\Debug\CardGamePage375.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 8\CardGamePage375\CardGamePage375\bin\Debug\CardGamePage375.pdb
+D:\Documents\Business\C_Sharp_Projects\Chapter 8\CardGamePage375\CardGamePage375\obj\Debug\CardGamePage375.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 8\CardGamePage375\CardGamePage375\obj\Debug\CardGamePage375.pdb

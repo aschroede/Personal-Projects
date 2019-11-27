@@ -1,0 +1,142 @@
+2019-11-01 14:08:50.170 -06:00 [INF] Hello, Serilog!
+2019-11-01 14:08:50.259 -06:00 [ERR] Creating objects now...
+2019-11-01 14:10:05.640 -06:00 [INF] Hello, Serilog!
+2019-11-01 14:10:05.723 -06:00 [ERR] Creating objects now...
+2019-11-01 14:24:13.450 -06:00 [INF] Hello, Serilog!
+2019-11-01 14:24:13.524 -06:00 [INF] Creating objects now...
+2019-11-01 14:33:23.048 -06:00 [INF] Hello, Serilog!
+2019-11-01 14:33:23.125 -06:00 [INF] Creating objects now...
+2019-11-01 14:33:23.125 -06:00 [INF] Creating a new instance of Outside
+2019-11-01 14:33:23.126 -06:00 [INF] Creating a new instance of Outside
+2019-11-01 14:33:23.126 -06:00 [INF] Creating a new instance of Outside
+2019-11-01 14:33:23.126 -06:00 [INF] Creating a new instance of Outside
+2019-11-01 14:33:23.134 -06:00 [ERR] Failed to load D:\Documents\Business\C_Sharp_Projects\Chapter 7\HideAndSeek\HideAndSeekConsoleApp\bin\Release\Images\hideandseek.jpgt
+System.IO.FileNotFoundException: D:\Documents\Business\C_Sharp_Projects\Chapter 7\HideAndSeek\HideAndSeekConsoleApp\bin\Release\Images\hideandseek.jpgt
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at HideAndSeek.Form1.LoadNewPict(String name) in D:\Documents\Business\C_Sharp_Projects\Chapter 7\HideAndSeek\HideAndSeek\Form1.cs:line 216
+2019-11-01 14:35:49.243 -06:00 [INF] Hello, Serilog!
+2019-11-01 14:35:49.305 -06:00 [INF] Creating objects now...
+2019-11-01 14:35:49.305 -06:00 [INF] Creating a new instance of Outside
+2019-11-01 14:35:49.306 -06:00 [INF] Creating a new instance of Outside
+2019-11-01 14:35:49.306 -06:00 [INF] Creating a new instance of Outside
+2019-11-01 14:35:49.306 -06:00 [INF] Creating a new instance of Outside
+2019-11-01 14:35:49.313 -06:00 [INF] Loading D:\Documents\Business\C_Sharp_Projects\Chapter 7\HideAndSeek\HideAndSeekConsoleApp\bin\Release\Images\hideandseek.jpg...
+2019-11-01 14:36:07.484 -06:00 [INF] Loading D:\Documents\Business\C_Sharp_Projects\Chapter 7\HideAndSeek\HideAndSeekConsoleApp\bin\Release\Images\livingroom.jpg...
+2019-11-01 14:36:13.286 -06:00 [INF] Loading D:\Documents\Business\C_Sharp_Projects\Chapter 7\HideAndSeek\HideAndSeekConsoleApp\bin\Release\Images\frontyard.jpg...
+2019-11-01 14:39:13.877 -06:00 [INF] Hello, Serilog!
+2019-11-01 14:39:13.942 -06:00 [INF] Creating objects now...
+2019-11-01 14:39:13.942 -06:00 [INF] Creating a new instance of Outside
+2019-11-01 14:39:13.942 -06:00 [INF] Creating a new instance of Outside
+2019-11-01 14:39:13.943 -06:00 [INF] Creating a new instance of Outside
+2019-11-01 14:39:13.943 -06:00 [INF] Creating a new instance of Outside
+2019-11-01 14:39:13.954 -06:00 [INF] Loading D:\Documents\Business\C_Sharp_Projects\Chapter 7\HideAndSeek\HideAndSeekConsoleApp\bin\Release\Images\hideandseek.jpg...
+2019-11-01 14:39:28.182 -06:00 [INF] Opponent's current location: livingroom
+2019-11-01 14:39:28.488 -06:00 [INF] Opponent's current location: kitchen
+2019-11-01 14:39:28.798 -06:00 [INF] Opponent's current location: livingroom
+2019-11-01 14:39:29.105 -06:00 [INF] Opponent's current location: kitchen
+2019-11-01 14:39:29.416 -06:00 [INF] Opponent's current location: kitchen
+2019-11-01 14:39:29.724 -06:00 [INF] Opponent's current location: livingroom
+2019-11-01 14:39:30.035 -06:00 [INF] Opponent's current location: kitchen
+2019-11-01 14:39:30.345 -06:00 [INF] Opponent's current location: upstairs hallway
+2019-11-01 14:39:30.655 -06:00 [INF] Opponent's current location: bathroom
+2019-11-01 14:39:30.964 -06:00 [INF] Opponent's current location: upstairs hallway
+2019-11-01 14:39:33.637 -06:00 [INF] Loading D:\Documents\Business\C_Sharp_Projects\Chapter 7\HideAndSeek\HideAndSeekConsoleApp\bin\Release\Images\livingroom.jpg...
+2019-11-01 14:39:58.968 -06:00 [INF] Loading D:\Documents\Business\C_Sharp_Projects\Chapter 7\HideAndSeek\HideAndSeekConsoleApp\bin\Release\Images\stairs.jpg...
+2019-11-01 14:40:01.277 -06:00 [INF] Loading D:\Documents\Business\C_Sharp_Projects\Chapter 7\HideAndSeek\HideAndSeekConsoleApp\bin\Release\Images\upstairs hallway.jpg...
+2019-11-01 14:40:12.881 -06:00 [INF] Opponent's current location: livingroom
+2019-11-01 14:40:13.220 -06:00 [INF] Opponent's current location: Garden
+2019-11-01 14:40:13.566 -06:00 [INF] Opponent's current location: kitchen
+2019-11-01 14:40:13.907 -06:00 [INF] Opponent's current location: livingroom
+2019-11-01 14:40:14.250 -06:00 [INF] Opponent's current location: driveway
+2019-11-01 14:40:14.588 -06:00 [INF] Opponent's current location: driveway
+2019-11-01 14:40:14.928 -06:00 [INF] Opponent's current location: driveway
+2019-11-01 14:40:15.270 -06:00 [INF] Opponent's current location: livingroom
+2019-11-01 14:40:15.605 -06:00 [INF] Opponent's current location: driveway
+2019-11-01 14:40:15.947 -06:00 [INF] Opponent's current location: kitchen
+2019-11-01 14:40:18.675 -06:00 [INF] Loading D:\Documents\Business\C_Sharp_Projects\Chapter 7\HideAndSeek\HideAndSeekConsoleApp\bin\Release\Images\livingroom.jpg...
+2019-11-01 14:59:35.602 -06:00 [INF] Hello, Serilog!
+2019-11-01 14:59:35.691 -06:00 [INF] Creating objects now...
+2019-11-01 14:59:35.692 -06:00 [INF] Creating a new instance of Outside
+2019-11-01 14:59:35.692 -06:00 [INF] Creating a new instance of Outside
+2019-11-01 14:59:35.692 -06:00 [INF] Creating a new instance of Outside
+2019-11-01 14:59:35.692 -06:00 [INF] Creating a new instance of Outside
+2019-11-01 14:59:35.701 -06:00 [INF] Loading D:\Documents\Business\C_Sharp_Projects\Chapter 7\HideAndSeek\HideAndSeekConsoleApp\bin\Release\Images\hideandseek.jpg...
+2019-11-01 14:59:48.076 -06:00 [INF] Opponent's current location: kitchen
+2019-11-01 14:59:48.389 -06:00 [INF] Opponent's current location: kitchen
+2019-11-01 14:59:48.701 -06:00 [INF] Opponent's current location: kitchen
+2019-11-01 14:59:49.018 -06:00 [INF] Opponent's current location: livingroom
+2019-11-01 14:59:49.327 -06:00 [INF] Opponent's current location: kitchen
+2019-11-01 14:59:49.646 -06:00 [INF] Opponent's current location: driveway
+2019-11-01 14:59:49.957 -06:00 [INF] Opponent's current location: kitchen
+2019-11-01 14:59:50.270 -06:00 [INF] Opponent's current location: kitchen
+2019-11-01 14:59:50.581 -06:00 [INF] Opponent's current location: driveway
+2019-11-01 14:59:50.893 -06:00 [INF] Opponent's current location: livingroom
+2019-11-01 14:59:51.504 -06:00 [INF] Redrawing form...
+2019-11-01 14:59:53.607 -06:00 [INF] Loading D:\Documents\Business\C_Sharp_Projects\Chapter 7\HideAndSeek\HideAndSeekConsoleApp\bin\Release\Images\livingroom.jpg...
+2019-11-01 14:59:53.617 -06:00 [INF] Your current location: livingroom
+2019-11-01 15:00:00.733 -06:00 [INF] Resetting the game...
+2019-11-01 15:00:00.741 -06:00 [INF] You found the opponent in 1 moves
+2019-11-01 15:00:06.894 -06:00 [INF] Opponent's current location: Garden
+2019-11-01 15:00:07.218 -06:00 [INF] Opponent's current location: kitchen
+2019-11-01 15:00:07.542 -06:00 [INF] Opponent's current location: kitchen
+2019-11-01 15:00:07.866 -06:00 [INF] Opponent's current location: livingroom
+2019-11-01 15:00:08.193 -06:00 [INF] Opponent's current location: Garden
+2019-11-01 15:00:08.520 -06:00 [INF] Opponent's current location: kitchen
+2019-11-01 15:00:08.844 -06:00 [INF] Opponent's current location: kitchen
+2019-11-01 15:00:09.169 -06:00 [INF] Opponent's current location: kitchen
+2019-11-01 15:00:09.492 -06:00 [INF] Opponent's current location: Garden
+2019-11-01 15:00:09.817 -06:00 [INF] Opponent's current location: kitchen
+2019-11-01 15:00:10.442 -06:00 [INF] Redrawing form...
+2019-11-01 15:00:12.550 -06:00 [INF] Loading D:\Documents\Business\C_Sharp_Projects\Chapter 7\HideAndSeek\HideAndSeekConsoleApp\bin\Release\Images\livingroom.jpg...
+2019-11-01 15:00:12.556 -06:00 [INF] Your current location: livingroom
+2019-11-01 15:00:18.905 -06:00 [INF] Loading D:\Documents\Business\C_Sharp_Projects\Chapter 7\HideAndSeek\HideAndSeekConsoleApp\bin\Release\Images\frontyard.jpg...
+2019-11-01 15:00:18.917 -06:00 [INF] Your current location: frontyard
+2019-11-01 15:00:18.917 -06:00 [INF] You have moved to a new location: frontyard
+2019-11-01 15:00:25.872 -06:00 [INF] Loading D:\Documents\Business\C_Sharp_Projects\Chapter 7\HideAndSeek\HideAndSeekConsoleApp\bin\Release\Images\livingroom.jpg...
+2019-11-01 15:00:25.882 -06:00 [INF] Your current location: livingroom
+2019-11-01 15:00:25.882 -06:00 [INF] You have moved to a new location: livingroom
+2019-11-01 15:00:27.633 -06:00 [INF] Loading D:\Documents\Business\C_Sharp_Projects\Chapter 7\HideAndSeek\HideAndSeekConsoleApp\bin\Release\Images\frontyard.jpg...
+2019-11-01 15:00:27.652 -06:00 [INF] Your current location: frontyard
+2019-11-01 15:00:27.653 -06:00 [INF] You have moved to a new location: frontyard
+2019-11-01 15:00:30.687 -06:00 [INF] Loading D:\Documents\Business\C_Sharp_Projects\Chapter 7\HideAndSeek\HideAndSeekConsoleApp\bin\Release\Images\driveway.jpg...
+2019-11-01 15:00:30.700 -06:00 [INF] Your current location: driveway
+2019-11-01 15:00:30.700 -06:00 [INF] You have moved to a new location: driveway
+2019-11-01 15:00:37.457 -06:00 [INF] Loading D:\Documents\Business\C_Sharp_Projects\Chapter 7\HideAndSeek\HideAndSeekConsoleApp\bin\Release\Images\backyard.jpg...
+2019-11-01 15:00:37.473 -06:00 [INF] Your current location: backyard
+2019-11-01 15:00:37.473 -06:00 [INF] You have moved to a new location: backyard
+2019-11-01 15:00:39.984 -06:00 [INF] Loading D:\Documents\Business\C_Sharp_Projects\Chapter 7\HideAndSeek\HideAndSeekConsoleApp\bin\Release\Images\kitchen.jpg...
+2019-11-01 15:00:39.992 -06:00 [INF] Your current location: kitchen
+2019-11-01 15:00:39.992 -06:00 [INF] You have moved to a new location: kitchen
+2019-11-01 15:00:43.203 -06:00 [INF] Resetting the game...
+2019-11-01 15:00:43.212 -06:00 [INF] You found the opponent in 10 moves
+2019-11-01 15:23:48.443 -06:00 [INF] Creating objects now...
+2019-11-01 15:23:48.492 -06:00 [INF] Creating a new instance of Outside
+2019-11-01 15:23:48.494 -06:00 [INF] Creating a new instance of Outside
+2019-11-01 15:23:48.495 -06:00 [INF] Creating a new instance of Outside
+2019-11-01 15:23:48.495 -06:00 [INF] Creating a new instance of Outside
+2019-11-01 15:23:48.505 -06:00 [INF] Loading D:\Documents\Business\C_Sharp_Projects\Chapter 7\HideAndSeek\HideAndSeekConsoleApp\bin\Release\Images\hideandseek.jpg...
+2019-11-01 15:24:12.202 -06:00 [INF] Opponent's current location: driveway
+2019-11-01 15:24:12.518 -06:00 [INF] Opponent's current location: Garden
+2019-11-01 15:24:12.833 -06:00 [INF] Opponent's current location: livingroom
+2019-11-01 15:24:13.144 -06:00 [INF] Opponent's current location: livingroom
+2019-11-01 15:24:13.454 -06:00 [INF] Opponent's current location: livingroom
+2019-11-01 15:24:13.767 -06:00 [INF] Opponent's current location: upstairs hallway
+2019-11-01 15:24:14.078 -06:00 [INF] Opponent's current location: second bedroom
+2019-11-01 15:24:14.389 -06:00 [INF] Opponent's current location: upstairs hallway
+2019-11-01 15:24:14.701 -06:00 [INF] Opponent's current location: livingroom
+2019-11-01 15:24:15.012 -06:00 [INF] Opponent's current location: livingroom
+2019-11-01 15:24:15.625 -06:00 [INF] Redrawing form...
+2019-11-01 15:24:17.725 -06:00 [INF] Loading D:\Documents\Business\C_Sharp_Projects\Chapter 7\HideAndSeek\HideAndSeekConsoleApp\bin\Release\Images\livingroom.jpg...
+2019-11-01 15:24:17.739 -06:00 [INF] Your current location: livingroom
+2019-11-01 15:24:52.057 -06:00 [ERR] Failed to load D:\Documents\Business\C_Sharp_Projects\Chapter 7\HideAndSeek\HideAndSeekConsoleApp\bin\Release\Images\stairs.jpg
+System.IO.FileNotFoundException: D:\Documents\Business\C_Sharp_Projects\Chapter 7\HideAndSeek\HideAndSeekConsoleApp\bin\Release\Images\stairs.jpg
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at HideAndSeek.Form1.LoadNewPict(String name) in D:\Documents\Business\C_Sharp_Projects\Chapter 7\HideAndSeek\HideAndSeek\Form1.cs:line 193
+2019-11-01 15:24:52.079 -06:00 [INF] Your current location: stairs
+2019-11-01 15:24:52.080 -06:00 [INF] You have moved to a new location: stairs
+2019-11-01 15:25:31.125 -06:00 [INF] Loading D:\Documents\Business\C_Sharp_Projects\Chapter 7\HideAndSeek\HideAndSeekConsoleApp\bin\Release\Images\livingroom.jpg...
+2019-11-01 15:25:31.132 -06:00 [INF] Your current location: livingroom
+2019-11-01 15:25:31.133 -06:00 [INF] You have moved to a new location: livingroom
+2019-11-01 15:25:33.924 -06:00 [INF] Loading D:\Documents\Business\C_Sharp_Projects\Chapter 7\HideAndSeek\HideAndSeekConsoleApp\bin\Release\Images\stairs.jpg...
+2019-11-01 15:25:33.932 -06:00 [INF] Your current location: stairs
+2019-11-01 15:25:33.933 -06:00 [INF] You have moved to a new location: stairs

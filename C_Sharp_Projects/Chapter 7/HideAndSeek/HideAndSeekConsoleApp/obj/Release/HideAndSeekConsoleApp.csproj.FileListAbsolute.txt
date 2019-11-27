@@ -1,0 +1,17 @@
+D:\Documents\Business\C_Sharp_Projects\Chapter 7\HideAndSeek\HideAndSeekConsoleApp\bin\Release\HideAndSeekConsoleApp.exe.config
+D:\Documents\Business\C_Sharp_Projects\Chapter 7\HideAndSeek\HideAndSeekConsoleApp\bin\Release\HideAndSeekConsoleApp.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 7\HideAndSeek\HideAndSeekConsoleApp\bin\Release\HideAndSeekConsoleApp.pdb
+D:\Documents\Business\C_Sharp_Projects\Chapter 7\HideAndSeek\HideAndSeekConsoleApp\bin\Release\HideAndSeek.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 7\HideAndSeek\HideAndSeekConsoleApp\bin\Release\Serilog.dll
+D:\Documents\Business\C_Sharp_Projects\Chapter 7\HideAndSeek\HideAndSeekConsoleApp\bin\Release\Serilog.Sinks.Console.dll
+D:\Documents\Business\C_Sharp_Projects\Chapter 7\HideAndSeek\HideAndSeekConsoleApp\bin\Release\Serilog.Sinks.File.dll
+D:\Documents\Business\C_Sharp_Projects\Chapter 7\HideAndSeek\HideAndSeekConsoleApp\bin\Release\HideAndSeek.pdb
+D:\Documents\Business\C_Sharp_Projects\Chapter 7\HideAndSeek\HideAndSeekConsoleApp\bin\Release\HideAndSeek.exe.config
+D:\Documents\Business\C_Sharp_Projects\Chapter 7\HideAndSeek\HideAndSeekConsoleApp\bin\Release\Serilog.xml
+D:\Documents\Business\C_Sharp_Projects\Chapter 7\HideAndSeek\HideAndSeekConsoleApp\bin\Release\Serilog.Sinks.Console.xml
+D:\Documents\Business\C_Sharp_Projects\Chapter 7\HideAndSeek\HideAndSeekConsoleApp\bin\Release\Serilog.Sinks.File.pdb
+D:\Documents\Business\C_Sharp_Projects\Chapter 7\HideAndSeek\HideAndSeekConsoleApp\bin\Release\Serilog.Sinks.File.xml
+D:\Documents\Business\C_Sharp_Projects\Chapter 7\HideAndSeek\HideAndSeekConsoleApp\obj\Release\HideAndSeekConsoleApp.csprojAssemblyReference.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 7\HideAndSeek\HideAndSeekConsoleApp\obj\Release\HideAndSeekConsoleApp.csproj.CopyComplete
+D:\Documents\Business\C_Sharp_Projects\Chapter 7\HideAndSeek\HideAndSeekConsoleApp\obj\Release\HideAndSeekConsoleApp.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 7\HideAndSeek\HideAndSeekConsoleApp\obj\Release\HideAndSeekConsoleApp.pdb

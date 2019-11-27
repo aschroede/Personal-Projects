@@ -1,0 +1,11 @@
+D:\Documents\Business\C_Sharp_Projects\Chapter 7\Test\Test\bin\Debug\Test.exe.config
+D:\Documents\Business\C_Sharp_Projects\Chapter 7\Test\Test\bin\Debug\Test.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 7\Test\Test\bin\Debug\Test.pdb
+D:\Documents\Business\C_Sharp_Projects\Chapter 7\Test\Test\bin\Debug\Serilog.dll
+D:\Documents\Business\C_Sharp_Projects\Chapter 7\Test\Test\bin\Debug\Serilog.Sinks.Console.dll
+D:\Documents\Business\C_Sharp_Projects\Chapter 7\Test\Test\bin\Debug\Serilog.xml
+D:\Documents\Business\C_Sharp_Projects\Chapter 7\Test\Test\bin\Debug\Serilog.Sinks.Console.xml
+D:\Documents\Business\C_Sharp_Projects\Chapter 7\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 7\Test\Test\obj\Debug\Test.csproj.CopyComplete
+D:\Documents\Business\C_Sharp_Projects\Chapter 7\Test\Test\obj\Debug\Test.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 7\Test\Test\obj\Debug\Test.pdb

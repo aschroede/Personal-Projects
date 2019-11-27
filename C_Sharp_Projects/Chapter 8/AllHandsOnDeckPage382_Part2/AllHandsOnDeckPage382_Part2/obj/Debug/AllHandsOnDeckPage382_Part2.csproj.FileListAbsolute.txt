@@ -1,0 +1,9 @@
+D:\Documents\Business\C_Sharp_Projects\Chapter 8\AllHandsOnDeckPage382_Part2\AllHandsOnDeckPage382_Part2\obj\Debug\AllHandsOnDeckPage382_Part2.csprojAssemblyReference.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 8\AllHandsOnDeckPage382_Part2\AllHandsOnDeckPage382_Part2\obj\Debug\AllHandsOnDeckPage382_Part2.Form1.resources
+D:\Documents\Business\C_Sharp_Projects\Chapter 8\AllHandsOnDeckPage382_Part2\AllHandsOnDeckPage382_Part2\obj\Debug\AllHandsOnDeckPage382_Part2.Properties.Resources.resources
+D:\Documents\Business\C_Sharp_Projects\Chapter 8\AllHandsOnDeckPage382_Part2\AllHandsOnDeckPage382_Part2\obj\Debug\AllHandsOnDeckPage382_Part2.csproj.GenerateResource.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 8\AllHandsOnDeckPage382_Part2\AllHandsOnDeckPage382_Part2\bin\Debug\AllHandsOnDeckPage382_Part2.exe.config
+D:\Documents\Business\C_Sharp_Projects\Chapter 8\AllHandsOnDeckPage382_Part2\AllHandsOnDeckPage382_Part2\bin\Debug\AllHandsOnDeckPage382_Part2.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 8\AllHandsOnDeckPage382_Part2\AllHandsOnDeckPage382_Part2\bin\Debug\AllHandsOnDeckPage382_Part2.pdb
+D:\Documents\Business\C_Sharp_Projects\Chapter 8\AllHandsOnDeckPage382_Part2\AllHandsOnDeckPage382_Part2\obj\Debug\AllHandsOnDeckPage382_Part2.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 8\AllHandsOnDeckPage382_Part2\AllHandsOnDeckPage382_Part2\obj\Debug\AllHandsOnDeckPage382_Part2.pdb

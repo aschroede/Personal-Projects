@@ -1,0 +1,36 @@
+---------------------------------
+       App 8: File Searcher
+---------------------------------
+Searching C:\Users\b59mi\Python_Projects\App8_File_Searcher_App\Books for 'excitement'
+
+Reading file: C:\Users\b59mi\Python_Projects\App8_File_Searcher_App\Books\Les Miserables.txt
+
+On line 7896: Honor. A fresh excitement in the little town. Well, so it was the cross
+
+On line 18062: violent excitement that her strength was trebled. While thus bent over,
+
+On line 47617: of excitement. The aunt gazed at Marius with a frightened air, hardly
+
+Total instances found in Les Miserables.txt: 3
+
+Searching C:\Users\b59mi\Python_Projects\App8_File_Searcher_App\Books\More Books for 'excitement'
+
+Searching C:\Users\b59mi\Python_Projects\App8_File_Searcher_App\Books\More Books\Sci Fi for 'excitement'
+
+Reading file: C:\Users\b59mi\Python_Projects\App8_File_Searcher_App\Books\More Books\Sci Fi\The Drivers.txt
+
+On line 233: "Right!" Harry Hayden broke in. "Now, the kids get all the excitement
+
+On line 367: "What's the matter, boy? You _do_ look sick. Too much excitement,
+
+Total instances found in The Drivers.txt: 2
+
+Reading file: C:\Users\b59mi\Python_Projects\App8_File_Searcher_App\Books\More Books\The Almost Men.txt
+
+Total instances found in The Almost Men.txt: 0
+
+Reading file: C:\Users\b59mi\Python_Projects\App8_File_Searcher_App\Books\Pride and Prejudice.txt
+
+Total instances found in Pride and Prejudice.txt: 0
+
+Execution time: 0.3884305953979492

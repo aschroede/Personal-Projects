@@ -1,0 +1,16 @@
+﻿<Window x:Class="SloppyJoes.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SloppyJoes"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label x:Name="label2" Content="Label" HorizontalAlignment="Left" Margin="220,113,0,0" VerticalAlignment="Top" Height="40" Width="428" FontSize="16"/>
+        <Label x:Name="label1" Content="Label" HorizontalAlignment="Left" Margin="220,37,0,0" VerticalAlignment="Top" Height="40" Width="428" FontSize="16"/>
+        <Label x:Name="label3" Content="Label" HorizontalAlignment="Left" Margin="220,181,0,0" VerticalAlignment="Top" Height="40" Width="428" FontSize="16"/>
+        <Label x:Name="label4" Content="Label" HorizontalAlignment="Left" Margin="220,250,0,0" VerticalAlignment="Top" Height="40" Width="428" FontSize="16"/>
+        <Label x:Name="label5" Content="Label" HorizontalAlignment="Left" Margin="220,324,0,0" VerticalAlignment="Top" Height="40" Width="428" FontSize="16"/>
+    </Grid>
+</Window>

@@ -1,0 +1,9 @@
+D:\Documents\Business\C_Sharp_Projects\Chapter 9\UnicodeExcercise\UnicodeExcercise\bin\Debug\UnicodeExcercise.exe.config
+D:\Documents\Business\C_Sharp_Projects\Chapter 9\UnicodeExcercise\UnicodeExcercise\bin\Debug\UnicodeExcercise.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 9\UnicodeExcercise\UnicodeExcercise\bin\Debug\UnicodeExcercise.pdb
+D:\Documents\Business\C_Sharp_Projects\Chapter 9\UnicodeExcercise\UnicodeExcercise\obj\Debug\UnicodeExcercise.csprojAssemblyReference.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 9\UnicodeExcercise\UnicodeExcercise\obj\Debug\UnicodeExcercise.Form1.resources
+D:\Documents\Business\C_Sharp_Projects\Chapter 9\UnicodeExcercise\UnicodeExcercise\obj\Debug\UnicodeExcercise.Properties.Resources.resources
+D:\Documents\Business\C_Sharp_Projects\Chapter 9\UnicodeExcercise\UnicodeExcercise\obj\Debug\UnicodeExcercise.csproj.GenerateResource.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 9\UnicodeExcercise\UnicodeExcercise\obj\Debug\UnicodeExcercise.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 9\UnicodeExcercise\UnicodeExcercise\obj\Debug\UnicodeExcercise.pdb

@@ -1,0 +1,6 @@
+D:\Documents\Business\C_Sharp_Projects\Chapter 8\DoThisPage380\DoThisPage380\bin\Debug\DoThisPage380.exe.config
+D:\Documents\Business\C_Sharp_Projects\Chapter 8\DoThisPage380\DoThisPage380\bin\Debug\DoThisPage380.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 8\DoThisPage380\DoThisPage380\bin\Debug\DoThisPage380.pdb
+D:\Documents\Business\C_Sharp_Projects\Chapter 8\DoThisPage380\DoThisPage380\obj\Debug\DoThisPage380.csprojAssemblyReference.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 8\DoThisPage380\DoThisPage380\obj\Debug\DoThisPage380.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 8\DoThisPage380\DoThisPage380\obj\Debug\DoThisPage380.pdb

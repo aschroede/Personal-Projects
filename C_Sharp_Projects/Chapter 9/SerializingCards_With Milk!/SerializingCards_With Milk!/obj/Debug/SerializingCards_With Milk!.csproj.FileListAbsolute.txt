@@ -1,0 +1,9 @@
+D:\Documents\Business\C_Sharp_Projects\Chapter 9\SerializingCards_With Milk!\SerializingCards_With Milk!\bin\Debug\SerializingCards_With Milk!.exe.config
+D:\Documents\Business\C_Sharp_Projects\Chapter 9\SerializingCards_With Milk!\SerializingCards_With Milk!\bin\Debug\SerializingCards_With Milk!.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 9\SerializingCards_With Milk!\SerializingCards_With Milk!\bin\Debug\SerializingCards_With Milk!.pdb
+D:\Documents\Business\C_Sharp_Projects\Chapter 9\SerializingCards_With Milk!\SerializingCards_With Milk!\obj\Debug\SerializingCards_With Milk!.csprojAssemblyReference.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 9\SerializingCards_With Milk!\SerializingCards_With Milk!\obj\Debug\SerializingCards_With_Milk_.Form1.resources
+D:\Documents\Business\C_Sharp_Projects\Chapter 9\SerializingCards_With Milk!\SerializingCards_With Milk!\obj\Debug\SerializingCards_With_Milk_.Properties.Resources.resources
+D:\Documents\Business\C_Sharp_Projects\Chapter 9\SerializingCards_With Milk!\SerializingCards_With Milk!\obj\Debug\SerializingCards_With Milk!.csproj.GenerateResource.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 9\SerializingCards_With Milk!\SerializingCards_With Milk!\obj\Debug\SerializingCards_With Milk!.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 9\SerializingCards_With Milk!\SerializingCards_With Milk!\obj\Debug\SerializingCards_With Milk!.pdb

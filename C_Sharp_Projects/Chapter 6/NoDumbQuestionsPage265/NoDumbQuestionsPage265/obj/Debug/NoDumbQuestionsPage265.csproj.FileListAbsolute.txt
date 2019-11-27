@@ -1,0 +1,7 @@
+D:\Documents\Business\C_Sharp_Projects\Chapter 6\NoDumbQuestionsPage265\NoDumbQuestionsPage265\bin\Debug\NoDumbQuestionsPage265.exe.config
+D:\Documents\Business\C_Sharp_Projects\Chapter 6\NoDumbQuestionsPage265\NoDumbQuestionsPage265\bin\Debug\NoDumbQuestionsPage265.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 6\NoDumbQuestionsPage265\NoDumbQuestionsPage265\bin\Debug\NoDumbQuestionsPage265.pdb
+D:\Documents\Business\C_Sharp_Projects\Chapter 6\NoDumbQuestionsPage265\NoDumbQuestionsPage265\obj\Debug\NoDumbQuestionsPage265.csproj.CoreCompileInputs.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 6\NoDumbQuestionsPage265\NoDumbQuestionsPage265\obj\Debug\NoDumbQuestionsPage265.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 6\NoDumbQuestionsPage265\NoDumbQuestionsPage265\obj\Debug\NoDumbQuestionsPage265.pdb
+D:\Documents\Business\C_Sharp_Projects\Chapter 6\NoDumbQuestionsPage265\NoDumbQuestionsPage265\obj\Debug\NoDumbQuestionsPage265.csprojAssemblyReference.cache

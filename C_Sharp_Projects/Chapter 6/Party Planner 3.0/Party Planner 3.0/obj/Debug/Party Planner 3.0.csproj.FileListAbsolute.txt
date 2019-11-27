@@ -1,0 +1,10 @@
+D:\Documents\Business\C_Sharp_Projects\Chapter 6\Party Planner 3.0\Party Planner 3.0\bin\Debug\Party Planner 3.0.exe.config
+D:\Documents\Business\C_Sharp_Projects\Chapter 6\Party Planner 3.0\Party Planner 3.0\bin\Debug\Party Planner 3.0.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 6\Party Planner 3.0\Party Planner 3.0\bin\Debug\Party Planner 3.0.pdb
+D:\Documents\Business\C_Sharp_Projects\Chapter 6\Party Planner 3.0\Party Planner 3.0\obj\Debug\Party Planner 3.0.csprojAssemblyReference.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 6\Party Planner 3.0\Party Planner 3.0\obj\Debug\Party_Planner_3._0.Properties.Resources.resources
+D:\Documents\Business\C_Sharp_Projects\Chapter 6\Party Planner 3.0\Party Planner 3.0\obj\Debug\Party Planner 3.0.csproj.GenerateResource.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 6\Party Planner 3.0\Party Planner 3.0\obj\Debug\Party Planner 3.0.csproj.CoreCompileInputs.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 6\Party Planner 3.0\Party Planner 3.0\obj\Debug\Party Planner 3.0.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 6\Party Planner 3.0\Party Planner 3.0\obj\Debug\Party Planner 3.0.pdb
+D:\Documents\Business\C_Sharp_Projects\Chapter 6\Party Planner 3.0\Party Planner 3.0\obj\Debug\Party_Planner_3._0.Form1.resources

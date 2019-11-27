@@ -1,0 +1,10 @@
+D:\Documents\Business\C_Sharp_Projects\Lab1\ADayAtTheRaces\ADayAtTheRaces\bin\Debug\ADayAtTheRaces.exe.config
+D:\Documents\Business\C_Sharp_Projects\Lab1\ADayAtTheRaces\ADayAtTheRaces\bin\Debug\ADayAtTheRaces.exe
+D:\Documents\Business\C_Sharp_Projects\Lab1\ADayAtTheRaces\ADayAtTheRaces\bin\Debug\ADayAtTheRaces.pdb
+D:\Documents\Business\C_Sharp_Projects\Lab1\ADayAtTheRaces\ADayAtTheRaces\obj\Debug\ADayAtTheRaces.csprojAssemblyReference.cache
+D:\Documents\Business\C_Sharp_Projects\Lab1\ADayAtTheRaces\ADayAtTheRaces\obj\Debug\ADayAtTheRaces.Form1.resources
+D:\Documents\Business\C_Sharp_Projects\Lab1\ADayAtTheRaces\ADayAtTheRaces\obj\Debug\ADayAtTheRaces.Properties.Resources.resources
+D:\Documents\Business\C_Sharp_Projects\Lab1\ADayAtTheRaces\ADayAtTheRaces\obj\Debug\ADayAtTheRaces.csproj.GenerateResource.cache
+D:\Documents\Business\C_Sharp_Projects\Lab1\ADayAtTheRaces\ADayAtTheRaces\obj\Debug\ADayAtTheRaces.csproj.CoreCompileInputs.cache
+D:\Documents\Business\C_Sharp_Projects\Lab1\ADayAtTheRaces\ADayAtTheRaces\obj\Debug\ADayAtTheRaces.exe
+D:\Documents\Business\C_Sharp_Projects\Lab1\ADayAtTheRaces\ADayAtTheRaces\obj\Debug\ADayAtTheRaces.pdb

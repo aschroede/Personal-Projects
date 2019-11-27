@@ -1,0 +1,9 @@
+D:\Documents\Business\C_Sharp_Projects\Chapter 8\DictionaryProjectPage389\DictionaryProjectPage389\bin\Debug\DictionaryProjectPage389.exe.config
+D:\Documents\Business\C_Sharp_Projects\Chapter 8\DictionaryProjectPage389\DictionaryProjectPage389\bin\Debug\DictionaryProjectPage389.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 8\DictionaryProjectPage389\DictionaryProjectPage389\bin\Debug\DictionaryProjectPage389.pdb
+D:\Documents\Business\C_Sharp_Projects\Chapter 8\DictionaryProjectPage389\DictionaryProjectPage389\obj\Debug\DictionaryProjectPage389.csprojAssemblyReference.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 8\DictionaryProjectPage389\DictionaryProjectPage389\obj\Debug\DictionaryProjectPage389.Form1.resources
+D:\Documents\Business\C_Sharp_Projects\Chapter 8\DictionaryProjectPage389\DictionaryProjectPage389\obj\Debug\DictionaryProjectPage389.Properties.Resources.resources
+D:\Documents\Business\C_Sharp_Projects\Chapter 8\DictionaryProjectPage389\DictionaryProjectPage389\obj\Debug\DictionaryProjectPage389.csproj.GenerateResource.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 8\DictionaryProjectPage389\DictionaryProjectPage389\obj\Debug\DictionaryProjectPage389.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 8\DictionaryProjectPage389\DictionaryProjectPage389\obj\Debug\DictionaryProjectPage389.pdb

@@ -1,0 +1,7 @@
+D:\Documents\Business\C_Sharp_Projects\Chapter 7\DoThisPage300\DoThisPage300\bin\Debug\DoThisPage300.exe.config
+D:\Documents\Business\C_Sharp_Projects\Chapter 7\DoThisPage300\DoThisPage300\bin\Debug\DoThisPage300.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 7\DoThisPage300\DoThisPage300\bin\Debug\DoThisPage300.pdb
+D:\Documents\Business\C_Sharp_Projects\Chapter 7\DoThisPage300\DoThisPage300\obj\Debug\DoThisPage300.csproj.CoreCompileInputs.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 7\DoThisPage300\DoThisPage300\obj\Debug\DoThisPage300.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 7\DoThisPage300\DoThisPage300\obj\Debug\DoThisPage300.pdb
+D:\Documents\Business\C_Sharp_Projects\Chapter 7\DoThisPage300\DoThisPage300\obj\Debug\DoThisPage300.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+D:\Documents\Business\C_Sharp_Projects\Chapter 2\ExcerciseOnPage98\ExcerciseOnPage98\bin\Debug\ExcerciseOnPage98.exe.config
+D:\Documents\Business\C_Sharp_Projects\Chapter 2\ExcerciseOnPage98\ExcerciseOnPage98\bin\Debug\ExcerciseOnPage98.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 2\ExcerciseOnPage98\ExcerciseOnPage98\bin\Debug\ExcerciseOnPage98.pdb
+D:\Documents\Business\C_Sharp_Projects\Chapter 2\ExcerciseOnPage98\ExcerciseOnPage98\obj\Debug\ExcerciseOnPage98.csprojAssemblyReference.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 2\ExcerciseOnPage98\ExcerciseOnPage98\obj\Debug\ExcerciseOnPage98.Form1.resources
+D:\Documents\Business\C_Sharp_Projects\Chapter 2\ExcerciseOnPage98\ExcerciseOnPage98\obj\Debug\ExcerciseOnPage98.Properties.Resources.resources
+D:\Documents\Business\C_Sharp_Projects\Chapter 2\ExcerciseOnPage98\ExcerciseOnPage98\obj\Debug\ExcerciseOnPage98.csproj.GenerateResource.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 2\ExcerciseOnPage98\ExcerciseOnPage98\obj\Debug\ExcerciseOnPage98.csproj.CoreCompileInputs.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 2\ExcerciseOnPage98\ExcerciseOnPage98\obj\Debug\ExcerciseOnPage98.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 2\ExcerciseOnPage98\ExcerciseOnPage98\obj\Debug\ExcerciseOnPage98.pdb

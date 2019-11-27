@@ -1,0 +1,9 @@
+D:\Documents\Business\C_Sharp_Projects\Chapter 9\SimpleTextEditor\SimpleTextEditor\bin\Debug\SimpleTextEditor.exe.config
+D:\Documents\Business\C_Sharp_Projects\Chapter 9\SimpleTextEditor\SimpleTextEditor\bin\Debug\SimpleTextEditor.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 9\SimpleTextEditor\SimpleTextEditor\bin\Debug\SimpleTextEditor.pdb
+D:\Documents\Business\C_Sharp_Projects\Chapter 9\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.csprojAssemblyReference.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 9\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.Form1.resources
+D:\Documents\Business\C_Sharp_Projects\Chapter 9\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.Properties.Resources.resources
+D:\Documents\Business\C_Sharp_Projects\Chapter 9\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.csproj.GenerateResource.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 9\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 9\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.pdb

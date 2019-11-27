@@ -1,0 +1,10 @@
+D:\Documents\Business\C_Sharp_Projects\Chapter 4\_BouncingLabels\_BouncingLabels\bin\Debug\_BouncingLabels.exe.config
+D:\Documents\Business\C_Sharp_Projects\Chapter 4\_BouncingLabels\_BouncingLabels\bin\Debug\_BouncingLabels.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 4\_BouncingLabels\_BouncingLabels\bin\Debug\_BouncingLabels.pdb
+D:\Documents\Business\C_Sharp_Projects\Chapter 4\_BouncingLabels\_BouncingLabels\obj\Debug\_BouncingLabels.csprojAssemblyReference.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 4\_BouncingLabels\_BouncingLabels\obj\Debug\_BouncingLabels.Form1.resources
+D:\Documents\Business\C_Sharp_Projects\Chapter 4\_BouncingLabels\_BouncingLabels\obj\Debug\_BouncingLabels.Properties.Resources.resources
+D:\Documents\Business\C_Sharp_Projects\Chapter 4\_BouncingLabels\_BouncingLabels\obj\Debug\_BouncingLabels.csproj.GenerateResource.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 4\_BouncingLabels\_BouncingLabels\obj\Debug\_BouncingLabels.csproj.CoreCompileInputs.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 4\_BouncingLabels\_BouncingLabels\obj\Debug\_BouncingLabels.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 4\_BouncingLabels\_BouncingLabels\obj\Debug\_BouncingLabels.pdb

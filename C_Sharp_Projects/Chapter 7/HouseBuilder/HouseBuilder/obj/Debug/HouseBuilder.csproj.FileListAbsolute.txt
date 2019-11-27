@@ -1,0 +1,10 @@
+D:\Documents\Business\C_Sharp_Projects\Chapter 7\HouseBuilder\HouseBuilder\bin\Debug\HouseBuilder.exe.config
+D:\Documents\Business\C_Sharp_Projects\Chapter 7\HouseBuilder\HouseBuilder\bin\Debug\HouseBuilder.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 7\HouseBuilder\HouseBuilder\bin\Debug\HouseBuilder.pdb
+D:\Documents\Business\C_Sharp_Projects\Chapter 7\HouseBuilder\HouseBuilder\obj\Debug\HouseBuilder.csprojAssemblyReference.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 7\HouseBuilder\HouseBuilder\obj\Debug\HouseBuilder.Form1.resources
+D:\Documents\Business\C_Sharp_Projects\Chapter 7\HouseBuilder\HouseBuilder\obj\Debug\HouseBuilder.Properties.Resources.resources
+D:\Documents\Business\C_Sharp_Projects\Chapter 7\HouseBuilder\HouseBuilder\obj\Debug\HouseBuilder.csproj.GenerateResource.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 7\HouseBuilder\HouseBuilder\obj\Debug\HouseBuilder.csproj.CoreCompileInputs.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 7\HouseBuilder\HouseBuilder\obj\Debug\HouseBuilder.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 7\HouseBuilder\HouseBuilder\obj\Debug\HouseBuilder.pdb
