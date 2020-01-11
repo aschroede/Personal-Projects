@@ -1,0 +1,33 @@
+Circuit: * C:\Users\b59mi\Documents\Business\4th Year Engineering\Semester 1\ECE490\Analog-Drum-Machine\Mixer\LTspice Files\Combined Stages.asc
+
+WARNING: Less than two connections to node N030.  This node is used by R5.
+WARNING: Less than two connections to node N033.  This node is used by R3.
+WARNING: Less than two connections to node N035.  This node is used by R10.
+WARNING: Less than two connections to node N038.  This node is used by R21.
+WARNING: Less than two connections to node N042.  This node is used by R22.
+WARNING: Less than two connections to node N044.  This node is used by R23.
+WARNING: Less than two connections to node N010.  This node is used by R6.
+WARNING: Less than two connections to node N012.  This node is used by R7.
+WARNING: Less than two connections to node N013.  This node is used by R8.
+WARNING: Less than two connections to node N015.  This node is used by R9.
+WARNING: Less than two connections to node N019.  This node is used by R15.
+Direct Newton iteration for .op point succeeded.
+
+Date: Thu Feb 21 18:36:17 2019
+Total elapsed time: 0.352 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 4169
+traniter = 4140
+tranpoints = 2068
+accept = 1534
+rejected = 534
+matrix size = 128
+fillins = 50
+solver = Alternate
+Thread vector: 27.9/16.9[2] 9.4/6.8[2] 3.2/2.2[2] 3.1/2.2[2]  2592/500
+Matrix Compiler1: 12.38 KB object code size  5.2/4.1/[2.7]
+Matrix Compiler2: 13.26 KB object code size  3.8/3.5/[2.3]
+

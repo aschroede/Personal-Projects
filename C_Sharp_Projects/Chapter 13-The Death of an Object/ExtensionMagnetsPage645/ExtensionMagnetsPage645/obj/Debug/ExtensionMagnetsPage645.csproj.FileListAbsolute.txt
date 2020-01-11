@@ -1,0 +1,6 @@
+D:\Documents\Business\C_Sharp_Projects\Chapter 13\ExtensionMagnetsPage645\ExtensionMagnetsPage645\bin\Debug\ExtensionMagnetsPage645.exe.config
+D:\Documents\Business\C_Sharp_Projects\Chapter 13\ExtensionMagnetsPage645\ExtensionMagnetsPage645\bin\Debug\ExtensionMagnetsPage645.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 13\ExtensionMagnetsPage645\ExtensionMagnetsPage645\bin\Debug\ExtensionMagnetsPage645.pdb
+D:\Documents\Business\C_Sharp_Projects\Chapter 13\ExtensionMagnetsPage645\ExtensionMagnetsPage645\obj\Debug\ExtensionMagnetsPage645.csprojAssemblyReference.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 13\ExtensionMagnetsPage645\ExtensionMagnetsPage645\obj\Debug\ExtensionMagnetsPage645.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 13\ExtensionMagnetsPage645\ExtensionMagnetsPage645\obj\Debug\ExtensionMagnetsPage645.pdb

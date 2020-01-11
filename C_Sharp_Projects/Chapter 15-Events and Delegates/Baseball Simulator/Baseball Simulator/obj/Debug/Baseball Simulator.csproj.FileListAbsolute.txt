@@ -1,0 +1,15 @@
+D:\Documents\Business\C_Sharp_Projects\Chapter 15\Baseball Simulator\Baseball Simulator\bin\Debug\Baseball Simulator.exe.config
+D:\Documents\Business\C_Sharp_Projects\Chapter 15\Baseball Simulator\Baseball Simulator\bin\Debug\Baseball Simulator.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 15\Baseball Simulator\Baseball Simulator\bin\Debug\Baseball Simulator.pdb
+D:\Documents\Business\C_Sharp_Projects\Chapter 15\Baseball Simulator\Baseball Simulator\obj\Debug\MainWindow.g.cs
+D:\Documents\Business\C_Sharp_Projects\Chapter 15\Baseball Simulator\Baseball Simulator\obj\Debug\App.g.cs
+D:\Documents\Business\C_Sharp_Projects\Chapter 15\Baseball Simulator\Baseball Simulator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Documents\Business\C_Sharp_Projects\Chapter 15\Baseball Simulator\Baseball Simulator\obj\Debug\Baseball Simulator_MarkupCompile.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 15\Baseball Simulator\Baseball Simulator\obj\Debug\Baseball Simulator_MarkupCompile.lref
+D:\Documents\Business\C_Sharp_Projects\Chapter 15\Baseball Simulator\Baseball Simulator\obj\Debug\MainWindow.baml
+D:\Documents\Business\C_Sharp_Projects\Chapter 15\Baseball Simulator\Baseball Simulator\obj\Debug\Baseball Simulator.g.resources
+D:\Documents\Business\C_Sharp_Projects\Chapter 15\Baseball Simulator\Baseball Simulator\obj\Debug\Baseball_Simulator.Properties.Resources.resources
+D:\Documents\Business\C_Sharp_Projects\Chapter 15\Baseball Simulator\Baseball Simulator\obj\Debug\Baseball Simulator.csproj.GenerateResource.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 15\Baseball Simulator\Baseball Simulator\obj\Debug\Baseball Simulator.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 15\Baseball Simulator\Baseball Simulator\obj\Debug\Baseball Simulator.pdb
+D:\Documents\Business\C_Sharp_Projects\Chapter 15\Baseball Simulator\Baseball Simulator\obj\Debug\Baseball Simulator.csprojAssemblyReference.cache

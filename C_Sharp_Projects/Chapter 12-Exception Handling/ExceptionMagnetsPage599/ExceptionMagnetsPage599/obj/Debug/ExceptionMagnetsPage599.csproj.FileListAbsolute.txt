@@ -1,0 +1,6 @@
+D:\Documents\Business\C_Sharp_Projects\Chapter 12\ExceptionMagnetsPage599\ExceptionMagnetsPage599\bin\Debug\ExceptionMagnetsPage599.exe.config
+D:\Documents\Business\C_Sharp_Projects\Chapter 12\ExceptionMagnetsPage599\ExceptionMagnetsPage599\bin\Debug\ExceptionMagnetsPage599.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 12\ExceptionMagnetsPage599\ExceptionMagnetsPage599\bin\Debug\ExceptionMagnetsPage599.pdb
+D:\Documents\Business\C_Sharp_Projects\Chapter 12\ExceptionMagnetsPage599\ExceptionMagnetsPage599\obj\Debug\ExceptionMagnetsPage599.csprojAssemblyReference.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 12\ExceptionMagnetsPage599\ExceptionMagnetsPage599\obj\Debug\ExceptionMagnetsPage599.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 12\ExceptionMagnetsPage599\ExceptionMagnetsPage599\obj\Debug\ExceptionMagnetsPage599.pdb

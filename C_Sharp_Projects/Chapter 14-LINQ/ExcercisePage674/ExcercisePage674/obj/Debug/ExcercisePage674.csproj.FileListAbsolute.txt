@@ -1,0 +1,6 @@
+D:\Documents\Business\C_Sharp_Projects\Chapter 14\ExcercisePage674\ExcercisePage674\bin\Debug\ExcercisePage674.exe.config
+D:\Documents\Business\C_Sharp_Projects\Chapter 14\ExcercisePage674\ExcercisePage674\bin\Debug\ExcercisePage674.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 14\ExcercisePage674\ExcercisePage674\bin\Debug\ExcercisePage674.pdb
+D:\Documents\Business\C_Sharp_Projects\Chapter 14\ExcercisePage674\ExcercisePage674\obj\Debug\ExcercisePage674.csprojAssemblyReference.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 14\ExcercisePage674\ExcercisePage674\obj\Debug\ExcercisePage674.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 14\ExcercisePage674\ExcercisePage674\obj\Debug\ExcercisePage674.pdb

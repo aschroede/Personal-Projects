@@ -1,0 +1,89 @@
+D:\Documents\Business\C_Sharp_Projects\Save the Humans\Save the Humans\bin\x64\Debug\App.xbf
+D:\Documents\Business\C_Sharp_Projects\Save the Humans\Save the Humans\bin\x64\Debug\MainPage.xbf
+D:\Documents\Business\C_Sharp_Projects\Save the Humans\Save the Humans\bin\x64\Debug\Save the Humans.xr.xml
+D:\Documents\Business\C_Sharp_Projects\Save the Humans\Save the Humans\bin\x64\Debug\Save the Humans.exe
+D:\Documents\Business\C_Sharp_Projects\Save the Humans\Save the Humans\bin\x64\Debug\Save the Humans.pdb
+D:\Documents\Business\C_Sharp_Projects\Save the Humans\Save the Humans\bin\x64\Debug\resources.pri
+D:\Documents\Business\C_Sharp_Projects\Save the Humans\Save the Humans\bin\x64\Debug\AppxManifest.xml
+D:\Documents\Business\C_Sharp_Projects\Save the Humans\Save the Humans\bin\x64\Debug\Core\AppxManifest.xml
+D:\Documents\Business\C_Sharp_Projects\Save the Humans\Save the Humans\bin\x64\Debug\Core\Save the Humans.exe
+D:\Documents\Business\C_Sharp_Projects\Save the Humans\Save the Humans\bin\x64\Debug\Save the Humans.build.appxrecipe
+D:\Documents\Business\C_Sharp_Projects\Save the Humans\Save the Humans\bin\x64\Debug\System.Runtime.dll
+D:\Documents\Business\C_Sharp_Projects\Save the Humans\Save the Humans\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\Documents\Business\C_Sharp_Projects\Save the Humans\Save the Humans\obj\x64\Debug\Save the Humans.csprojAssemblyReference.cache
+D:\Documents\Business\C_Sharp_Projects\Save the Humans\Save the Humans\obj\x64\Debug\App.g.i.cs
+D:\Documents\Business\C_Sharp_Projects\Save the Humans\Save the Humans\obj\x64\Debug\App.g.cs
+D:\Documents\Business\C_Sharp_Projects\Save the Humans\Save the Humans\obj\x64\Debug\MainPage.g.i.cs
+D:\Documents\Business\C_Sharp_Projects\Save the Humans\Save the Humans\obj\x64\Debug\MainPage.g.cs
+D:\Documents\Business\C_Sharp_Projects\Save the Humans\Save the Humans\obj\x64\Debug\XamlTypeInfo.g.cs
+D:\Documents\Business\C_Sharp_Projects\Save the Humans\Save the Humans\obj\x64\Debug\App.xaml
+D:\Documents\Business\C_Sharp_Projects\Save the Humans\Save the Humans\obj\x64\Debug\MainPage.xaml
+D:\Documents\Business\C_Sharp_Projects\Save the Humans\Save the Humans\obj\x64\Debug\App.xbf
+D:\Documents\Business\C_Sharp_Projects\Save the Humans\Save the Humans\obj\x64\Debug\MainPage.xbf
+D:\Documents\Business\C_Sharp_Projects\Save the Humans\Save the Humans\obj\x64\Debug\XamlSaveStateFile.xml
+D:\Documents\Business\C_Sharp_Projects\Save the Humans\Save the Humans\obj\x64\Debug\Save the Humans.csproj.CoreCompileInputs.cache
+D:\Documents\Business\C_Sharp_Projects\Save the Humans\Save the Humans\obj\x64\Debug\Save the Humans.csproj.CopyComplete
+D:\Documents\Business\C_Sharp_Projects\Save the Humans\Save the Humans\obj\x64\Debug\Save the Humans.exe
+D:\Documents\Business\C_Sharp_Projects\Save the Humans\Save the Humans\obj\x64\Debug\Save the Humans.pdb
+D:\Documents\Business\C_Sharp_Projects\Save the Humans\Save the Humans\obj\x64\Debug\ResourceHandlingTask.state
+D:\Documents\Business\C_Sharp_Projects\Save the Humans\Save the Humans\obj\x64\Debug\priconfig.xml
+D:\Documents\Business\C_Sharp_Projects\Save the Humans\Save the Humans\obj\x64\Debug\priconfig.xml.intermediate
+D:\Documents\Business\C_Sharp_Projects\Save the Humans\Save the Humans\obj\x64\Debug\unfiltered.layout.resfiles
+D:\Documents\Business\C_Sharp_Projects\Save the Humans\Save the Humans\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+D:\Documents\Business\C_Sharp_Projects\Save the Humans\Save the Humans\obj\x64\Debug\filtered.layout.resfiles
+D:\Documents\Business\C_Sharp_Projects\Save the Humans\Save the Humans\obj\x64\Debug\filtered.layout.resfiles.intermediate
+D:\Documents\Business\C_Sharp_Projects\Save the Humans\Save the Humans\obj\x64\Debug\excluded.layout.resfiles
+D:\Documents\Business\C_Sharp_Projects\Save the Humans\Save the Humans\obj\x64\Debug\excluded.layout.resfiles.intermediate
+D:\Documents\Business\C_Sharp_Projects\Save the Humans\Save the Humans\obj\x64\Debug\resources.resfiles
+D:\Documents\Business\C_Sharp_Projects\Save the Humans\Save the Humans\obj\x64\Debug\resources.resfiles.intermediate
+D:\Documents\Business\C_Sharp_Projects\Save the Humans\Save the Humans\obj\x64\Debug\pri.resfiles
+D:\Documents\Business\C_Sharp_Projects\Save the Humans\Save the Humans\obj\x64\Debug\pri.resfiles.intermediate
+D:\Documents\Business\C_Sharp_Projects\Save the Humans\Save the Humans\obj\x64\Debug\qualifiers.txt
+D:\Documents\Business\C_Sharp_Projects\Save the Humans\Save the Humans\obj\x64\Debug\qualifiers.txt.intermediate
+D:\Documents\Business\C_Sharp_Projects\Save the Humans\Save the Humans\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Documents\Business\C_Sharp_Projects\Save the Humans\Save the Humans\obj\x64\Debug\ProjectArchitectures.txt
+D:\Documents\Business\C_Sharp_Projects\Save the Humans\Save the Humans\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885526160000000.json
+D:\Documents\Business\C_Sharp_Projects\Chapter 1\Save the Humans\Save the Humans\bin\x64\Debug\App.xbf
+D:\Documents\Business\C_Sharp_Projects\Chapter 1\Save the Humans\Save the Humans\bin\x64\Debug\MainPage.xbf
+D:\Documents\Business\C_Sharp_Projects\Chapter 1\Save the Humans\Save the Humans\bin\x64\Debug\Save the Humans.xr.xml
+D:\Documents\Business\C_Sharp_Projects\Chapter 1\Save the Humans\Save the Humans\bin\x64\Debug\Save the Humans.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 1\Save the Humans\Save the Humans\bin\x64\Debug\Save the Humans.pdb
+D:\Documents\Business\C_Sharp_Projects\Chapter 1\Save the Humans\Save the Humans\bin\x64\Debug\resources.pri
+D:\Documents\Business\C_Sharp_Projects\Chapter 1\Save the Humans\Save the Humans\bin\x64\Debug\AppxManifest.xml
+D:\Documents\Business\C_Sharp_Projects\Chapter 1\Save the Humans\Save the Humans\bin\x64\Debug\Core\AppxManifest.xml
+D:\Documents\Business\C_Sharp_Projects\Chapter 1\Save the Humans\Save the Humans\bin\x64\Debug\Core\Save the Humans.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 1\Save the Humans\Save the Humans\bin\x64\Debug\Save the Humans.build.appxrecipe
+D:\Documents\Business\C_Sharp_Projects\Chapter 1\Save the Humans\Save the Humans\bin\x64\Debug\System.Runtime.dll
+D:\Documents\Business\C_Sharp_Projects\Chapter 1\Save the Humans\Save the Humans\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\Documents\Business\C_Sharp_Projects\Chapter 1\Save the Humans\Save the Humans\obj\x64\Debug\Save the Humans.csprojAssemblyReference.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 1\Save the Humans\Save the Humans\obj\x64\Debug\App.g.i.cs
+D:\Documents\Business\C_Sharp_Projects\Chapter 1\Save the Humans\Save the Humans\obj\x64\Debug\App.g.cs
+D:\Documents\Business\C_Sharp_Projects\Chapter 1\Save the Humans\Save the Humans\obj\x64\Debug\MainPage.g.i.cs
+D:\Documents\Business\C_Sharp_Projects\Chapter 1\Save the Humans\Save the Humans\obj\x64\Debug\MainPage.g.cs
+D:\Documents\Business\C_Sharp_Projects\Chapter 1\Save the Humans\Save the Humans\obj\x64\Debug\XamlTypeInfo.g.cs
+D:\Documents\Business\C_Sharp_Projects\Chapter 1\Save the Humans\Save the Humans\obj\x64\Debug\App.xaml
+D:\Documents\Business\C_Sharp_Projects\Chapter 1\Save the Humans\Save the Humans\obj\x64\Debug\MainPage.xaml
+D:\Documents\Business\C_Sharp_Projects\Chapter 1\Save the Humans\Save the Humans\obj\x64\Debug\App.xbf
+D:\Documents\Business\C_Sharp_Projects\Chapter 1\Save the Humans\Save the Humans\obj\x64\Debug\MainPage.xbf
+D:\Documents\Business\C_Sharp_Projects\Chapter 1\Save the Humans\Save the Humans\obj\x64\Debug\XamlSaveStateFile.xml
+D:\Documents\Business\C_Sharp_Projects\Chapter 1\Save the Humans\Save the Humans\obj\x64\Debug\Save the Humans.csproj.CopyComplete
+D:\Documents\Business\C_Sharp_Projects\Chapter 1\Save the Humans\Save the Humans\obj\x64\Debug\Save the Humans.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 1\Save the Humans\Save the Humans\obj\x64\Debug\Save the Humans.pdb
+D:\Documents\Business\C_Sharp_Projects\Chapter 1\Save the Humans\Save the Humans\obj\x64\Debug\ResourceHandlingTask.state
+D:\Documents\Business\C_Sharp_Projects\Chapter 1\Save the Humans\Save the Humans\obj\x64\Debug\priconfig.xml
+D:\Documents\Business\C_Sharp_Projects\Chapter 1\Save the Humans\Save the Humans\obj\x64\Debug\priconfig.xml.intermediate
+D:\Documents\Business\C_Sharp_Projects\Chapter 1\Save the Humans\Save the Humans\obj\x64\Debug\unfiltered.layout.resfiles
+D:\Documents\Business\C_Sharp_Projects\Chapter 1\Save the Humans\Save the Humans\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+D:\Documents\Business\C_Sharp_Projects\Chapter 1\Save the Humans\Save the Humans\obj\x64\Debug\filtered.layout.resfiles
+D:\Documents\Business\C_Sharp_Projects\Chapter 1\Save the Humans\Save the Humans\obj\x64\Debug\filtered.layout.resfiles.intermediate
+D:\Documents\Business\C_Sharp_Projects\Chapter 1\Save the Humans\Save the Humans\obj\x64\Debug\excluded.layout.resfiles
+D:\Documents\Business\C_Sharp_Projects\Chapter 1\Save the Humans\Save the Humans\obj\x64\Debug\excluded.layout.resfiles.intermediate
+D:\Documents\Business\C_Sharp_Projects\Chapter 1\Save the Humans\Save the Humans\obj\x64\Debug\resources.resfiles
+D:\Documents\Business\C_Sharp_Projects\Chapter 1\Save the Humans\Save the Humans\obj\x64\Debug\resources.resfiles.intermediate
+D:\Documents\Business\C_Sharp_Projects\Chapter 1\Save the Humans\Save the Humans\obj\x64\Debug\pri.resfiles
+D:\Documents\Business\C_Sharp_Projects\Chapter 1\Save the Humans\Save the Humans\obj\x64\Debug\pri.resfiles.intermediate
+D:\Documents\Business\C_Sharp_Projects\Chapter 1\Save the Humans\Save the Humans\obj\x64\Debug\qualifiers.txt
+D:\Documents\Business\C_Sharp_Projects\Chapter 1\Save the Humans\Save the Humans\obj\x64\Debug\qualifiers.txt.intermediate
+D:\Documents\Business\C_Sharp_Projects\Chapter 1\Save the Humans\Save the Humans\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Documents\Business\C_Sharp_Projects\Chapter 1\Save the Humans\Save the Humans\obj\x64\Debug\ProjectArchitectures.txt
+D:\Documents\Business\C_Sharp_Projects\Chapter 1\Save the Humans\Save the Humans\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885526160000000.json

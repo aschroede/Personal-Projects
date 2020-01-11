@@ -1,0 +1,6 @@
+D:\Documents\Business\C_Sharp_Projects\Chapter 13\PoolPuzzlePage639\PoolPuzzlePage639\bin\Debug\PoolPuzzlePage639.exe.config
+D:\Documents\Business\C_Sharp_Projects\Chapter 13\PoolPuzzlePage639\PoolPuzzlePage639\bin\Debug\PoolPuzzlePage639.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 13\PoolPuzzlePage639\PoolPuzzlePage639\bin\Debug\PoolPuzzlePage639.pdb
+D:\Documents\Business\C_Sharp_Projects\Chapter 13\PoolPuzzlePage639\PoolPuzzlePage639\obj\Debug\PoolPuzzlePage639.csprojAssemblyReference.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 13\PoolPuzzlePage639\PoolPuzzlePage639\obj\Debug\PoolPuzzlePage639.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 13\PoolPuzzlePage639\PoolPuzzlePage639\obj\Debug\PoolPuzzlePage639.pdb

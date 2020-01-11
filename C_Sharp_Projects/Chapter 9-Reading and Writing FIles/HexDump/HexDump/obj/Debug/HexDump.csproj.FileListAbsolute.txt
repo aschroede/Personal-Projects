@@ -1,0 +1,6 @@
+D:\Documents\Business\C_Sharp_Projects\Chapter 9\HexDump\HexDump\bin\Debug\HexDump.exe.config
+D:\Documents\Business\C_Sharp_Projects\Chapter 9\HexDump\HexDump\bin\Debug\HexDump.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 9\HexDump\HexDump\bin\Debug\HexDump.pdb
+D:\Documents\Business\C_Sharp_Projects\Chapter 9\HexDump\HexDump\obj\Debug\HexDump.csprojAssemblyReference.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 9\HexDump\HexDump\obj\Debug\HexDump.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 9\HexDump\HexDump\obj\Debug\HexDump.pdb

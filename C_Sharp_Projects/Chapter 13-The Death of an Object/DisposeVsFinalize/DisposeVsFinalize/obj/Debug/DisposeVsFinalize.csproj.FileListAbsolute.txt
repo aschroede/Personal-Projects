@@ -1,0 +1,9 @@
+D:\Documents\Business\C_Sharp_Projects\Chapter 13\DisposeVsFinalize\DisposeVsFinalize\bin\Debug\DisposeVsFinalize.exe.config
+D:\Documents\Business\C_Sharp_Projects\Chapter 13\DisposeVsFinalize\DisposeVsFinalize\bin\Debug\DisposeVsFinalize.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 13\DisposeVsFinalize\DisposeVsFinalize\bin\Debug\DisposeVsFinalize.pdb
+D:\Documents\Business\C_Sharp_Projects\Chapter 13\DisposeVsFinalize\DisposeVsFinalize\obj\Debug\DisposeVsFinalize.csprojAssemblyReference.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 13\DisposeVsFinalize\DisposeVsFinalize\obj\Debug\DisposeVsFinalize.Form1.resources
+D:\Documents\Business\C_Sharp_Projects\Chapter 13\DisposeVsFinalize\DisposeVsFinalize\obj\Debug\DisposeVsFinalize.Properties.Resources.resources
+D:\Documents\Business\C_Sharp_Projects\Chapter 13\DisposeVsFinalize\DisposeVsFinalize\obj\Debug\DisposeVsFinalize.csproj.GenerateResource.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 13\DisposeVsFinalize\DisposeVsFinalize\obj\Debug\DisposeVsFinalize.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 13\DisposeVsFinalize\DisposeVsFinalize\obj\Debug\DisposeVsFinalize.pdb

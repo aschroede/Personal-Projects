@@ -1,0 +1,15 @@
+D:\Documents\Business\C_Sharp_Projects\Chapter 11\GuySerializer\GuySerializer\bin\Debug\GuySerializer.exe.config
+D:\Documents\Business\C_Sharp_Projects\Chapter 11\GuySerializer\GuySerializer\bin\Debug\GuySerializer.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 11\GuySerializer\GuySerializer\bin\Debug\GuySerializer.pdb
+D:\Documents\Business\C_Sharp_Projects\Chapter 11\GuySerializer\GuySerializer\obj\Debug\GuySerializer.csprojAssemblyReference.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 11\GuySerializer\GuySerializer\obj\Debug\MainWindow.g.cs
+D:\Documents\Business\C_Sharp_Projects\Chapter 11\GuySerializer\GuySerializer\obj\Debug\App.g.cs
+D:\Documents\Business\C_Sharp_Projects\Chapter 11\GuySerializer\GuySerializer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Documents\Business\C_Sharp_Projects\Chapter 11\GuySerializer\GuySerializer\obj\Debug\GuySerializer_MarkupCompile.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 11\GuySerializer\GuySerializer\obj\Debug\GuySerializer_MarkupCompile.lref
+D:\Documents\Business\C_Sharp_Projects\Chapter 11\GuySerializer\GuySerializer\obj\Debug\MainWindow.baml
+D:\Documents\Business\C_Sharp_Projects\Chapter 11\GuySerializer\GuySerializer\obj\Debug\GuySerializer.g.resources
+D:\Documents\Business\C_Sharp_Projects\Chapter 11\GuySerializer\GuySerializer\obj\Debug\GuySerializer.Properties.Resources.resources
+D:\Documents\Business\C_Sharp_Projects\Chapter 11\GuySerializer\GuySerializer\obj\Debug\GuySerializer.csproj.GenerateResource.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 11\GuySerializer\GuySerializer\obj\Debug\GuySerializer.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 11\GuySerializer\GuySerializer\obj\Debug\GuySerializer.pdb

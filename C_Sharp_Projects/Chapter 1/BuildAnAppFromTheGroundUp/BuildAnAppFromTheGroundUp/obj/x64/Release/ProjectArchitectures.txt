@@ -1,1 +1,0 @@
-D:\Documents\Business\C_Sharp_Projects\Chapter1\BuildAnAppFromTheGroundUp\BuildAnAppFromTheGroundUp\BuildAnAppFromTheGroundUp.csproj;x64

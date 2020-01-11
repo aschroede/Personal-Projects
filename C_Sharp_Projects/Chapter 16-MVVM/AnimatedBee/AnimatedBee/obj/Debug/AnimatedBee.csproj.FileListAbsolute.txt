@@ -1,0 +1,21 @@
+D:\Documents\Business\C_Sharp_Projects\Chapter 16\AnimatedBee\AnimatedBee\bin\Debug\Bee animation 1.png
+D:\Documents\Business\C_Sharp_Projects\Chapter 16\AnimatedBee\AnimatedBee\bin\Debug\Bee animation 2.png
+D:\Documents\Business\C_Sharp_Projects\Chapter 16\AnimatedBee\AnimatedBee\bin\Debug\Bee animation 3.png
+D:\Documents\Business\C_Sharp_Projects\Chapter 16\AnimatedBee\AnimatedBee\bin\Debug\Bee animation 4.png
+D:\Documents\Business\C_Sharp_Projects\Chapter 16\AnimatedBee\AnimatedBee\bin\Debug\AnimatedBee.exe.config
+D:\Documents\Business\C_Sharp_Projects\Chapter 16\AnimatedBee\AnimatedBee\bin\Debug\AnimatedBee.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 16\AnimatedBee\AnimatedBee\bin\Debug\AnimatedBee.pdb
+D:\Documents\Business\C_Sharp_Projects\Chapter 16\AnimatedBee\AnimatedBee\obj\Debug\View\AnimatedImage.g.cs
+D:\Documents\Business\C_Sharp_Projects\Chapter 16\AnimatedBee\AnimatedBee\obj\Debug\View\FlyingBees.g.cs
+D:\Documents\Business\C_Sharp_Projects\Chapter 16\AnimatedBee\AnimatedBee\obj\Debug\App.g.cs
+D:\Documents\Business\C_Sharp_Projects\Chapter 16\AnimatedBee\AnimatedBee\obj\Debug\AnimatedBee_Content.g.cs
+D:\Documents\Business\C_Sharp_Projects\Chapter 16\AnimatedBee\AnimatedBee\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Documents\Business\C_Sharp_Projects\Chapter 16\AnimatedBee\AnimatedBee\obj\Debug\AnimatedBee_MarkupCompile.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 16\AnimatedBee\AnimatedBee\obj\Debug\AnimatedBee_MarkupCompile.lref
+D:\Documents\Business\C_Sharp_Projects\Chapter 16\AnimatedBee\AnimatedBee\obj\Debug\View\AnimatedImage.baml
+D:\Documents\Business\C_Sharp_Projects\Chapter 16\AnimatedBee\AnimatedBee\obj\Debug\View\FlyingBees.baml
+D:\Documents\Business\C_Sharp_Projects\Chapter 16\AnimatedBee\AnimatedBee\obj\Debug\AnimatedBee.g.resources
+D:\Documents\Business\C_Sharp_Projects\Chapter 16\AnimatedBee\AnimatedBee\obj\Debug\AnimatedBee.Properties.Resources.resources
+D:\Documents\Business\C_Sharp_Projects\Chapter 16\AnimatedBee\AnimatedBee\obj\Debug\AnimatedBee.csproj.GenerateResource.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 16\AnimatedBee\AnimatedBee\obj\Debug\AnimatedBee.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 16\AnimatedBee\AnimatedBee\obj\Debug\AnimatedBee.pdb

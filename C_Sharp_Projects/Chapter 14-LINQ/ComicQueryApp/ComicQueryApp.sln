@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComicQueryApp", "ComicQueryApp\ComicQueryApp.csproj", "{861FBE92-FB61-4581-B90C-B6A9E91E735A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{861FBE92-FB61-4581-B90C-B6A9E91E735A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{861FBE92-FB61-4581-B90C-B6A9E91E735A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{861FBE92-FB61-4581-B90C-B6A9E91E735A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{861FBE92-FB61-4581-B90C-B6A9E91E735A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {471AE3B4-0985-4847-93C9-03D24F1970DE}
+	EndGlobalSection
+EndGlobal

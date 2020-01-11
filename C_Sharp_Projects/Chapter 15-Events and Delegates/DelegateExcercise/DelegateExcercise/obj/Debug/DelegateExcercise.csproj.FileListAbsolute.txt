@@ -1,0 +1,6 @@
+D:\Documents\Business\C_Sharp_Projects\Chapter 15\DelegateExcercise\DelegateExcercise\bin\Debug\DelegateExcercise.exe.config
+D:\Documents\Business\C_Sharp_Projects\Chapter 15\DelegateExcercise\DelegateExcercise\bin\Debug\DelegateExcercise.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 15\DelegateExcercise\DelegateExcercise\bin\Debug\DelegateExcercise.pdb
+D:\Documents\Business\C_Sharp_Projects\Chapter 15\DelegateExcercise\DelegateExcercise\obj\Debug\DelegateExcercise.csprojAssemblyReference.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 15\DelegateExcercise\DelegateExcercise\obj\Debug\DelegateExcercise.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 15\DelegateExcercise\DelegateExcercise\obj\Debug\DelegateExcercise.pdb

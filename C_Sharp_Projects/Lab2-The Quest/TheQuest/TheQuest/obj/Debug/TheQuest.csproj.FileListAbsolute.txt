@@ -1,0 +1,9 @@
+D:\Documents\Business\C_Sharp_Projects\Lab2\TheQuest\TheQuest\bin\Debug\TheQuest.exe.config
+D:\Documents\Business\C_Sharp_Projects\Lab2\TheQuest\TheQuest\bin\Debug\TheQuest.exe
+D:\Documents\Business\C_Sharp_Projects\Lab2\TheQuest\TheQuest\bin\Debug\TheQuest.pdb
+D:\Documents\Business\C_Sharp_Projects\Lab2\TheQuest\TheQuest\obj\Debug\TheQuest.Form1.resources
+D:\Documents\Business\C_Sharp_Projects\Lab2\TheQuest\TheQuest\obj\Debug\TheQuest.Properties.Resources.resources
+D:\Documents\Business\C_Sharp_Projects\Lab2\TheQuest\TheQuest\obj\Debug\TheQuest.csproj.GenerateResource.cache
+D:\Documents\Business\C_Sharp_Projects\Lab2\TheQuest\TheQuest\obj\Debug\TheQuest.exe
+D:\Documents\Business\C_Sharp_Projects\Lab2\TheQuest\TheQuest\obj\Debug\TheQuest.pdb
+D:\Documents\Business\C_Sharp_Projects\Lab2\TheQuest\TheQuest\obj\Debug\TheQuest.csprojAssemblyReference.cache

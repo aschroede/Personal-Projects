@@ -1,0 +1,20 @@
+﻿<Window x:Class="Stopwatch.View.MainStopwatch"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Stopwatch.View"
+        xmlns:view="clr-namespace:Stopwatch.View"
+        xmlns:viewmodel="clr-namespace:Stopwatch.ViewModel"
+        mc:Ignorable="d"
+        Title="Two Stopwatches" Height="550" Width="400" ResizeMode="NoResize">
+    <Grid Background="Black">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+    
+            <view:BasicStopwatch Grid.Row="0" Margin="5"/>
+            <view:AnalogStopwatch Grid.Row="1" Margin="5"/>
+    </Grid>
+</Window>

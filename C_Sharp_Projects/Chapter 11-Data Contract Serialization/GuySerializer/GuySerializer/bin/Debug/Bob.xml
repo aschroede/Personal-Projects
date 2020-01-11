@@ -1,0 +1,1 @@
+<Guy xmlns="https://www.headfirstlabs.com/Chapter11" xmlns:i="http://www.w3.org/2001/XMLSchema-instance"><Age>45</Age><Cash>4.68</Cash><Name>Bob</Name><TrumpCard xmlns:a="blabla"><a:Suit>Hearts</a:Suit><a:Value>Jack</a:Value></TrumpCard></Guy>

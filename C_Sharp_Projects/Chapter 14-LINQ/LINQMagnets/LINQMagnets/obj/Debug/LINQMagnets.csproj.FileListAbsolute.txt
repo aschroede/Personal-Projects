@@ -1,0 +1,6 @@
+D:\Documents\Business\C_Sharp_Projects\Chapter 14\LINQMagnets\LINQMagnets\bin\Debug\LINQMagnets.exe.config
+D:\Documents\Business\C_Sharp_Projects\Chapter 14\LINQMagnets\LINQMagnets\bin\Debug\LINQMagnets.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 14\LINQMagnets\LINQMagnets\bin\Debug\LINQMagnets.pdb
+D:\Documents\Business\C_Sharp_Projects\Chapter 14\LINQMagnets\LINQMagnets\obj\Debug\LINQMagnets.csprojAssemblyReference.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 14\LINQMagnets\LINQMagnets\obj\Debug\LINQMagnets.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 14\LINQMagnets\LINQMagnets\obj\Debug\LINQMagnets.pdb

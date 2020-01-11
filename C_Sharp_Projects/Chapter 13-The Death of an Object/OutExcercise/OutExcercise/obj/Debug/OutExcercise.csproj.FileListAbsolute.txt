@@ -1,0 +1,9 @@
+D:\Documents\Business\C_Sharp_Projects\Chapter 13\OutExcercise\OutExcercise\obj\Debug\OutExcercise.csprojAssemblyReference.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 13\OutExcercise\OutExcercise\obj\Debug\OutExcercise.Properties.Resources.resources
+D:\Documents\Business\C_Sharp_Projects\Chapter 13\OutExcercise\OutExcercise\obj\Debug\OutExcercise.csproj.GenerateResource.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 13\OutExcercise\OutExcercise\bin\Debug\OutExcercise.exe.config
+D:\Documents\Business\C_Sharp_Projects\Chapter 13\OutExcercise\OutExcercise\bin\Debug\OutExcercise.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 13\OutExcercise\OutExcercise\bin\Debug\OutExcercise.pdb
+D:\Documents\Business\C_Sharp_Projects\Chapter 13\OutExcercise\OutExcercise\obj\Debug\OutExcercise.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 13\OutExcercise\OutExcercise\obj\Debug\OutExcercise.pdb
+D:\Documents\Business\C_Sharp_Projects\Chapter 13\OutExcercise\OutExcercise\obj\Debug\OutExcercise.Form1.resources

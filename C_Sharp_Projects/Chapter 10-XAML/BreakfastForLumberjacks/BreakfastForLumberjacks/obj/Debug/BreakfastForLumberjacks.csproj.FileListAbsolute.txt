@@ -1,0 +1,14 @@
+D:\Documents\Business\C_Sharp_Projects\Chapter 10\BreakfastForLumberjacks\BreakfastForLumberjacks\bin\Debug\BreakfastForLumberjacks.exe.config
+D:\Documents\Business\C_Sharp_Projects\Chapter 10\BreakfastForLumberjacks\BreakfastForLumberjacks\bin\Debug\BreakfastForLumberjacks.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 10\BreakfastForLumberjacks\BreakfastForLumberjacks\bin\Debug\BreakfastForLumberjacks.pdb
+D:\Documents\Business\C_Sharp_Projects\Chapter 10\BreakfastForLumberjacks\BreakfastForLumberjacks\obj\Debug\BreakfastForLumberjacks.csprojAssemblyReference.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 10\BreakfastForLumberjacks\BreakfastForLumberjacks\obj\Debug\MainWindow.g.cs
+D:\Documents\Business\C_Sharp_Projects\Chapter 10\BreakfastForLumberjacks\BreakfastForLumberjacks\obj\Debug\App.g.cs
+D:\Documents\Business\C_Sharp_Projects\Chapter 10\BreakfastForLumberjacks\BreakfastForLumberjacks\obj\Debug\BreakfastForLumberjacks_MarkupCompile.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 10\BreakfastForLumberjacks\BreakfastForLumberjacks\obj\Debug\BreakfastForLumberjacks_MarkupCompile.lref
+D:\Documents\Business\C_Sharp_Projects\Chapter 10\BreakfastForLumberjacks\BreakfastForLumberjacks\obj\Debug\MainWindow.baml
+D:\Documents\Business\C_Sharp_Projects\Chapter 10\BreakfastForLumberjacks\BreakfastForLumberjacks\obj\Debug\BreakfastForLumberjacks.g.resources
+D:\Documents\Business\C_Sharp_Projects\Chapter 10\BreakfastForLumberjacks\BreakfastForLumberjacks\obj\Debug\BreakfastForLumberjacks.Properties.Resources.resources
+D:\Documents\Business\C_Sharp_Projects\Chapter 10\BreakfastForLumberjacks\BreakfastForLumberjacks\obj\Debug\BreakfastForLumberjacks.csproj.GenerateResource.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 10\BreakfastForLumberjacks\BreakfastForLumberjacks\obj\Debug\BreakfastForLumberjacks.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 10\BreakfastForLumberjacks\BreakfastForLumberjacks\obj\Debug\BreakfastForLumberjacks.pdb

@@ -1,0 +1,16 @@
+D:\Documents\Business\C_Sharp_Projects\Chapter 16\BasketballRoster\BasketballRoster\bin\Debug\BasketballRoster.exe.config
+D:\Documents\Business\C_Sharp_Projects\Chapter 16\BasketballRoster\BasketballRoster\bin\Debug\BasketballRoster.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 16\BasketballRoster\BasketballRoster\bin\Debug\BasketballRoster.pdb
+D:\Documents\Business\C_Sharp_Projects\Chapter 16\BasketballRoster\BasketballRoster\obj\Debug\View\RosterControl.baml
+D:\Documents\Business\C_Sharp_Projects\Chapter 16\BasketballRoster\BasketballRoster\obj\Debug\View\LeagueWindow.g.cs
+D:\Documents\Business\C_Sharp_Projects\Chapter 16\BasketballRoster\BasketballRoster\obj\Debug\View\RosterControl.g.cs
+D:\Documents\Business\C_Sharp_Projects\Chapter 16\BasketballRoster\BasketballRoster\obj\Debug\App.g.cs
+D:\Documents\Business\C_Sharp_Projects\Chapter 16\BasketballRoster\BasketballRoster\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Documents\Business\C_Sharp_Projects\Chapter 16\BasketballRoster\BasketballRoster\obj\Debug\BasketballRoster_MarkupCompile.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 16\BasketballRoster\BasketballRoster\obj\Debug\BasketballRoster_MarkupCompile.lref
+D:\Documents\Business\C_Sharp_Projects\Chapter 16\BasketballRoster\BasketballRoster\obj\Debug\View\LeagueWindow.baml
+D:\Documents\Business\C_Sharp_Projects\Chapter 16\BasketballRoster\BasketballRoster\obj\Debug\BasketballRoster.g.resources
+D:\Documents\Business\C_Sharp_Projects\Chapter 16\BasketballRoster\BasketballRoster\obj\Debug\BasketballRoster.Properties.Resources.resources
+D:\Documents\Business\C_Sharp_Projects\Chapter 16\BasketballRoster\BasketballRoster\obj\Debug\BasketballRoster.csproj.GenerateResource.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 16\BasketballRoster\BasketballRoster\obj\Debug\BasketballRoster.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 16\BasketballRoster\BasketballRoster\obj\Debug\BasketballRoster.pdb

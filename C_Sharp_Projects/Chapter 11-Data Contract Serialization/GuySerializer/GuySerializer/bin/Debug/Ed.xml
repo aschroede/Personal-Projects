@@ -1,0 +1,1 @@
+<Guy xmlns="https://www.headfirstlabs.com/Chapter11" xmlns:i="http://www.w3.org/2001/XMLSchema-instance"><Age>43</Age><Cash>3700.51</Cash><MyCard xmlns:a="http://schemas.datacontract.org/2004/07/GuySerializer"><a:Suit>Heartss</a:Suit><a:Value>King</a:Value></MyCard><Name>Ed</Name></Guy>

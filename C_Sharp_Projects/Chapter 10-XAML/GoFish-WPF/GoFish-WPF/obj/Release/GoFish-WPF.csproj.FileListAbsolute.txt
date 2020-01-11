@@ -1,0 +1,14 @@
+D:\Documents\Business\C_Sharp_Projects\Chapter 10\GoFish-WPF\GoFish-WPF\bin\Release\GoFish-WPF.exe.config
+D:\Documents\Business\C_Sharp_Projects\Chapter 10\GoFish-WPF\GoFish-WPF\bin\Release\GoFish-WPF.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 10\GoFish-WPF\GoFish-WPF\bin\Release\GoFish-WPF.pdb
+D:\Documents\Business\C_Sharp_Projects\Chapter 10\GoFish-WPF\GoFish-WPF\obj\Release\MainWindow.g.cs
+D:\Documents\Business\C_Sharp_Projects\Chapter 10\GoFish-WPF\GoFish-WPF\obj\Release\App.g.cs
+D:\Documents\Business\C_Sharp_Projects\Chapter 10\GoFish-WPF\GoFish-WPF\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\Documents\Business\C_Sharp_Projects\Chapter 10\GoFish-WPF\GoFish-WPF\obj\Release\GoFish-WPF_MarkupCompile.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 10\GoFish-WPF\GoFish-WPF\obj\Release\GoFish-WPF_MarkupCompile.lref
+D:\Documents\Business\C_Sharp_Projects\Chapter 10\GoFish-WPF\GoFish-WPF\obj\Release\MainWindow.baml
+D:\Documents\Business\C_Sharp_Projects\Chapter 10\GoFish-WPF\GoFish-WPF\obj\Release\GoFish-WPF.g.resources
+D:\Documents\Business\C_Sharp_Projects\Chapter 10\GoFish-WPF\GoFish-WPF\obj\Release\GoFish_WPF.Properties.Resources.resources
+D:\Documents\Business\C_Sharp_Projects\Chapter 10\GoFish-WPF\GoFish-WPF\obj\Release\GoFish-WPF.csproj.GenerateResource.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 10\GoFish-WPF\GoFish-WPF\obj\Release\GoFish-WPF.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 10\GoFish-WPF\GoFish-WPF\obj\Release\GoFish-WPF.pdb
