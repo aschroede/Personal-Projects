@@ -1,0 +1,84 @@
+﻿<Window x:Class="Space_Invaders.View.MainPage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Space_Invaders.View"
+        xmlns:viewmodel ="clr-namespace:Space_Invaders.ViewModel"
+        mc:Ignorable="d"
+        Title="Space Invaders!" SizeChanged="Window_SizeChanged"  KeyUp="Window_KeyUp" KeyDown="Window_KeyDown" StateChanged="Window_StateChanged" d:DesignWidth="539" ResizeMode="CanResizeWithGrip" SizeToContent="Manual" WindowStartupLocation="CenterScreen" WindowState="Maximized" WindowStyle="SingleBorderWindow" HorizontalAlignment="Center" VerticalAlignment="Center">
+    <Window.Resources>
+        <viewmodel:InvadersViewModel x:Key="viewModel"/>
+        <viewmodel:BooleanVisibilityConverter x:Key="booleanVisibilityConverter"/>
+        <BitmapImage x:Key="MyImageSource" UriSource="../Images/player.png"/>
+    </Window.Resources>
+
+    <Grid Background="Black" DataContext="{StaticResource viewModel}">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="Auto"/>
+        </Grid.ColumnDefinitions>
+
+
+
+        <StackPanel Grid.Column="1" Margin="5">
+            <Button  Margin="5" Foreground="Lime" Background="Black" FontSize="20" FontFamily="OCR A Extended" BorderThickness="2"  BorderBrush="Blue" HorizontalAlignment="Left"
+                 Click="Button_Click">
+                <StackPanel Background="Black">
+                    <TextBlock>About</TextBlock>
+                    <Popup Name="aboutPopup">
+                        <StackPanel Orientation="Vertical" Background="Black">
+                            <TextBlock Foreground="Lime" Background="Transparent" Margin="10" FontSize="15">Brought to you by:</TextBlock>
+                            <TextBlock Foreground="Lime" Background="Transparent" Margin="10, 0, 5, 10" FontSize="15">Andrew Schroeder and</TextBlock>
+                            <Image Width="200">
+                                <Image.Source>
+                                    <BitmapImage UriSource="/Images/hfcsharp.gif"/>
+                                </Image.Source>
+                            </Image>
+                        </StackPanel>
+                    </Popup>
+                </StackPanel>
+            </Button>
+            <TextBlock Foreground="Lime" FontFamily="OCR A Extended" FontSize="20" Margin="5">
+                    <Run>Score:</Run>
+                    <Run Text="{Binding Score, Mode=OneWay}"/>
+            </TextBlock>
+            <TextBlock Foreground="Lime" FontFamily="OCR A Extended" FontSize="20" Margin="5">
+                    <Run>Wave:</Run>
+                    <Run Text="{Binding Wave, Mode=OneWay}"/>
+            </TextBlock>
+            <ListView ItemsSource="{Binding Path=Lives}" Background="Black" BorderBrush="Black" Margin="5">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <Image Source="{StaticResource MyImageSource}" Width="25" Height="20"/>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackPanel>
+
+
+
+        <Border x:Name="playArea" BorderBrush="Blue" BorderThickness="2" Grid.Column="0"
+            CornerRadius="10" Background="Black" Loaded="playArea_Loaded">
+            <ItemsControl ItemsSource="{Binding Path=Sprites}">
+                <ItemsControl.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <Canvas Background="Black" x:Name="canvas"/>
+                    </ItemsPanelTemplate>
+                </ItemsControl.ItemsPanel>
+            </ItemsControl>
+        </Border>
+
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBlock Text="Paused" HorizontalAlignment="Center"  Foreground="Lime" Grid.Column="1"
+                   FontSize="40" FontFamily="OCR A Extended" VerticalAlignment="Center"
+                   Visibility ="{Binding Paused, Converter={StaticResource booleanVisibilityConverter}}"/>
+            <TextBlock Text="Game Over" HorizontalAlignment="Center"  Foreground="Lime" Grid.Column="1"
+                   FontSize="40" FontFamily="OCR A Extended" VerticalAlignment="Center"
+                   Visibility ="{Binding GameOver, Converter={StaticResource booleanVisibilityConverter}}"/>
+            <Button Content="Restart Game" Foreground="Lime" Background="Transparent" FontSize="40" FontFamily="OCR A Extended"
+                    Visibility ="{Binding GameOver, Converter={StaticResource booleanVisibilityConverter}}" BorderBrush="Transparent" Click="Button_Click_1"/>
+        </StackPanel>
+    </Grid>
+
+</Window>

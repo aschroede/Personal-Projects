@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\Documents\Business\C_Sharp_Projects\Chapter 16\Stopwatch\Stopwatch\obj\Debug\
+D:\Documents\Business\C_Sharp_Projects\Chapter 16-MVVM\Stopwatch\Stopwatch\obj\Debug\
 Stopwatch
 none
 false
 DEBUG;TRACE
-D:\Documents\Business\C_Sharp_Projects\Chapter 16\Stopwatch\Stopwatch\App.xaml
+D:\Documents\Business\C_Sharp_Projects\Chapter 16-MVVM\Stopwatch\Stopwatch\App.xaml
 31209447897
 
-14-316980431
+15-1819202530
 13-1505183044
 View\AnalogStopwatch.xaml;View\BasicStopwatch.xaml;View\MainStopwatch.xaml;
 
-False
+True
 

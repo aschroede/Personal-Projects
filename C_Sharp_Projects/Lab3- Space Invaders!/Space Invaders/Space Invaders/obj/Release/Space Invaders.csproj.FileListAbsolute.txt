@@ -1,0 +1,48 @@
+D:\Documents\Business\C_Sharp_Projects\Lab3- Space Invaders!\Space Invaders\Space Invaders\bin\Release\Images\bug1.png
+D:\Documents\Business\C_Sharp_Projects\Lab3- Space Invaders!\Space Invaders\Space Invaders\bin\Release\Images\bug2.png
+D:\Documents\Business\C_Sharp_Projects\Lab3- Space Invaders!\Space Invaders\Space Invaders\bin\Release\Images\bug3.png
+D:\Documents\Business\C_Sharp_Projects\Lab3- Space Invaders!\Space Invaders\Space Invaders\bin\Release\Images\bug4.png
+D:\Documents\Business\C_Sharp_Projects\Lab3- Space Invaders!\Space Invaders\Space Invaders\bin\Release\Images\flyingsaucer1.png
+D:\Documents\Business\C_Sharp_Projects\Lab3- Space Invaders!\Space Invaders\Space Invaders\bin\Release\Images\flyingsaucer2.png
+D:\Documents\Business\C_Sharp_Projects\Lab3- Space Invaders!\Space Invaders\Space Invaders\bin\Release\Images\flyingsaucer3.png
+D:\Documents\Business\C_Sharp_Projects\Lab3- Space Invaders!\Space Invaders\Space Invaders\bin\Release\Images\flyingsaucer4.png
+D:\Documents\Business\C_Sharp_Projects\Lab3- Space Invaders!\Space Invaders\Space Invaders\bin\Release\Images\hfcsharp.gif
+D:\Documents\Business\C_Sharp_Projects\Lab3- Space Invaders!\Space Invaders\Space Invaders\bin\Release\Images\player.png
+D:\Documents\Business\C_Sharp_Projects\Lab3- Space Invaders!\Space Invaders\Space Invaders\bin\Release\Images\satellite1.png
+D:\Documents\Business\C_Sharp_Projects\Lab3- Space Invaders!\Space Invaders\Space Invaders\bin\Release\Images\satellite2.png
+D:\Documents\Business\C_Sharp_Projects\Lab3- Space Invaders!\Space Invaders\Space Invaders\bin\Release\Images\satellite3.png
+D:\Documents\Business\C_Sharp_Projects\Lab3- Space Invaders!\Space Invaders\Space Invaders\bin\Release\Images\satellite4.png
+D:\Documents\Business\C_Sharp_Projects\Lab3- Space Invaders!\Space Invaders\Space Invaders\bin\Release\Images\spaceship1.png
+D:\Documents\Business\C_Sharp_Projects\Lab3- Space Invaders!\Space Invaders\Space Invaders\bin\Release\Images\spaceship2.png
+D:\Documents\Business\C_Sharp_Projects\Lab3- Space Invaders!\Space Invaders\Space Invaders\bin\Release\Images\spaceship3.png
+D:\Documents\Business\C_Sharp_Projects\Lab3- Space Invaders!\Space Invaders\Space Invaders\bin\Release\Images\spaceship4.png
+D:\Documents\Business\C_Sharp_Projects\Lab3- Space Invaders!\Space Invaders\Space Invaders\bin\Release\Images\star1.png
+D:\Documents\Business\C_Sharp_Projects\Lab3- Space Invaders!\Space Invaders\Space Invaders\bin\Release\Images\star2.png
+D:\Documents\Business\C_Sharp_Projects\Lab3- Space Invaders!\Space Invaders\Space Invaders\bin\Release\Images\star3.png
+D:\Documents\Business\C_Sharp_Projects\Lab3- Space Invaders!\Space Invaders\Space Invaders\bin\Release\Images\star4.png
+D:\Documents\Business\C_Sharp_Projects\Lab3- Space Invaders!\Space Invaders\Space Invaders\bin\Release\Images\watchit1.png
+D:\Documents\Business\C_Sharp_Projects\Lab3- Space Invaders!\Space Invaders\Space Invaders\bin\Release\Images\watchit2.png
+D:\Documents\Business\C_Sharp_Projects\Lab3- Space Invaders!\Space Invaders\Space Invaders\bin\Release\Images\watchit3.png
+D:\Documents\Business\C_Sharp_Projects\Lab3- Space Invaders!\Space Invaders\Space Invaders\bin\Release\Images\watchit4.png
+D:\Documents\Business\C_Sharp_Projects\Lab3- Space Invaders!\Space Invaders\Space Invaders\bin\Release\Sounds\Player One - Space Invaders (1980).wav
+D:\Documents\Business\C_Sharp_Projects\Lab3- Space Invaders!\Space Invaders\Space Invaders\bin\Release\Sounds\SciFiGun5.wav
+D:\Documents\Business\C_Sharp_Projects\Lab3- Space Invaders!\Space Invaders\Space Invaders\bin\Release\Space Invaders.exe.config
+D:\Documents\Business\C_Sharp_Projects\Lab3- Space Invaders!\Space Invaders\Space Invaders\bin\Release\Space Invaders.exe
+D:\Documents\Business\C_Sharp_Projects\Lab3- Space Invaders!\Space Invaders\Space Invaders\bin\Release\Space Invaders.pdb
+D:\Documents\Business\C_Sharp_Projects\Lab3- Space Invaders!\Space Invaders\Space Invaders\obj\Release\View\AnimatedImage.g.cs
+D:\Documents\Business\C_Sharp_Projects\Lab3- Space Invaders!\Space Invaders\Space Invaders\obj\Release\View\BigStars.g.cs
+D:\Documents\Business\C_Sharp_Projects\Lab3- Space Invaders!\Space Invaders\Space Invaders\obj\Release\View\MainPage.g.cs
+D:\Documents\Business\C_Sharp_Projects\Lab3- Space Invaders!\Space Invaders\Space Invaders\obj\Release\App.g.cs
+D:\Documents\Business\C_Sharp_Projects\Lab3- Space Invaders!\Space Invaders\Space Invaders\obj\Release\Space Invaders_Content.g.cs
+D:\Documents\Business\C_Sharp_Projects\Lab3- Space Invaders!\Space Invaders\Space Invaders\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\Documents\Business\C_Sharp_Projects\Lab3- Space Invaders!\Space Invaders\Space Invaders\obj\Release\Space Invaders_MarkupCompile.cache
+D:\Documents\Business\C_Sharp_Projects\Lab3- Space Invaders!\Space Invaders\Space Invaders\obj\Release\Space Invaders_MarkupCompile.lref
+D:\Documents\Business\C_Sharp_Projects\Lab3- Space Invaders!\Space Invaders\Space Invaders\obj\Release\View\AnimatedImage.baml
+D:\Documents\Business\C_Sharp_Projects\Lab3- Space Invaders!\Space Invaders\Space Invaders\obj\Release\View\BigStars.baml
+D:\Documents\Business\C_Sharp_Projects\Lab3- Space Invaders!\Space Invaders\Space Invaders\obj\Release\View\MainPage.baml
+D:\Documents\Business\C_Sharp_Projects\Lab3- Space Invaders!\Space Invaders\Space Invaders\obj\Release\Space Invaders.g.resources
+D:\Documents\Business\C_Sharp_Projects\Lab3- Space Invaders!\Space Invaders\Space Invaders\obj\Release\Space_Invaders.Properties.Resources.resources
+D:\Documents\Business\C_Sharp_Projects\Lab3- Space Invaders!\Space Invaders\Space Invaders\obj\Release\Space Invaders.csproj.GenerateResource.cache
+D:\Documents\Business\C_Sharp_Projects\Lab3- Space Invaders!\Space Invaders\Space Invaders\obj\Release\Space Invaders.exe
+D:\Documents\Business\C_Sharp_Projects\Lab3- Space Invaders!\Space Invaders\Space Invaders\obj\Release\Space Invaders.pdb
+D:\Documents\Business\C_Sharp_Projects\Lab3- Space Invaders!\Space Invaders\Space Invaders\obj\Release\Space Invaders.csprojAssemblyReference.cache

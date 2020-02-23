@@ -20,6 +20,5 @@
                 </ItemsPanelTemplate>
             </ItemsControl.ItemsPanel>
         </ItemsControl>
-        
     </Grid>
 </Window>

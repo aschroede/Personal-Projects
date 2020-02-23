@@ -18,7 +18,7 @@
         </Storyboard>
     </UserControl.Resources>
     <Grid>
-        <Polygon Points="0,75 75,0 100,100 0,25 150,25" Fill="Snow"
+        <Polygon Points="0,50 50,0 50,50 0,12 75,12" Fill="Snow"
 Stroke="Black" x:Name="starPolygon"/>
     </Grid>
 </UserControl>

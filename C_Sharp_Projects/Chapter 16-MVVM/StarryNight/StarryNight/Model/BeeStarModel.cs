@@ -56,8 +56,10 @@ namespace StarryNight.Model
 
         private void CreateBees()
         {
-            // TODO: If the play area is empty, return
-            if(_bees.Count > 0)
+            if (_playAreaSize == Size.Empty)
+                return;
+
+            if (_bees.Count > 0)
             {
                 for (int i = 0; i < _bees.Count; i++)
                 {
@@ -69,19 +71,15 @@ namespace StarryNight.Model
                 int numberOfBees = _random.Next(5, 15);
                 for (int i = 0; i < numberOfBees; i++)
                 {
-                    Bee bee = new Bee(GetPointForObject(),
-                        new Size(_random.Next(40, 150), _random.Next(40, 150)));
-                    bee.Location = FindNonOverlappingPoint(bee.Size);
+                    int size = _random.Next(40, 150);
+                    Size beeSize = new Size(size, size);
+                    Point beeLocation = FindNonOverlappingPoint(beeSize);
+                    Bee bee = new Bee(beeLocation, beeSize);
                     _bees.Add(bee, bee.Location);
                     OnBeeMoved(bee, bee.Location.X, bee.Location.Y);
                     
                 }
             }
-        }
-
-        private Point GetPointForObject()
-        {
-            return new Point(_random.Next(75, (int)PlayAreaSize.Width - 75), _random.Next(50, (int)PlayAreaSize.Height - 50));
         }
 
         private void OnBeeMoved(Bee bee, double x, double y)
@@ -95,14 +93,16 @@ namespace StarryNight.Model
 
         private void CreateStars()
         {
-            // TODO: If the play area is empty, return
+            if (_playAreaSize == Size.Empty)
+                return;
+
             if(_stars.Count > 0)
             {
                 foreach (Star star in _stars.Keys)
                 {
-                    star.Location = FindNonOverlappingPoint(new Size(100,150));
+                    star.Location = FindNonOverlappingPoint(new Size(75,50));
 
-                    OnStarChanged(star, false); // TODO: Not sure if the "removed" parameter should be true or false?
+                    OnStarChanged(star, false); 
                 }
             }
 
@@ -127,10 +127,10 @@ namespace StarryNight.Model
 
         private void CreateAStar()
         {
-            Point newPoint = FindNonOverlappingPoint(new Size(150, 100));
+            Point newPoint = FindNonOverlappingPoint(new Size(75, 50));
             Star newStar = new Star(newPoint);
             _stars.Add(newStar, newStar.Location);
-            OnStarChanged(newStar, false); // TODO: Not sure if the "removed" parameter should be true or false?
+            OnStarChanged(newStar, false); 
         }
 
         private Point FindNonOverlappingPoint(Size size)
@@ -142,7 +142,7 @@ namespace StarryNight.Model
             do
             {
                 newRect.X = _random.Next(75, (int)PlayAreaSize.Width-75);
-                newRect.Y = _random.Next(50, (int)PlayAreaSize.Height-50);
+                newRect.Y = _random.Next(75, (int)PlayAreaSize.Height-75);
 
 
                 foreach (Bee bee in _bees.Keys)
@@ -157,7 +157,7 @@ namespace StarryNight.Model
                 }
                 ++i;
 
-                if (i >= 1000)
+                if (i >= 10000)
                     break;
             } while (overlapping == true);
 
@@ -181,11 +181,11 @@ namespace StarryNight.Model
         {
             if (_random.Next(2) == 0)
                 CreateAStar();
-            else
-                RemoveRandomStar();
             if (_stars.Count <= 5)
                 CreateAStar();
             if (_stars.Count >= 20)
+                RemoveRandomStar();
+            else
                 RemoveRandomStar();
         }
 

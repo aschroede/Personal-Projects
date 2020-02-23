@@ -28,14 +28,8 @@ namespace StarryNight.ViewModel
 
         public Size PlayAreaSize
         {
-            get
-            {
-                return _model.PlayAreaSize;
-            }
-            set
-            {
-                _model.PlayAreaSize = value;
-            }
+            get { return _model.PlayAreaSize; }
+            set { _model.PlayAreaSize = value; }
         }
 
         public BeeStarViewModel()
@@ -50,9 +44,7 @@ namespace StarryNight.ViewModel
         private void _timer_Tick(object sender, EventArgs e)
         {
             foreach (StarControl starControl in _fadedStars)
-            {
                 _sprites.Remove(starControl);
-            }
             _model.Update();
         }
 
@@ -60,7 +52,7 @@ namespace StarryNight.ViewModel
         {
             if (_stars.ContainsKey(e.StarThatChanged))
             {
-                if(e.Removed == true)
+                if(e.Removed)
                 {
                     _fadedStars.Add(_stars[e.StarThatChanged]);
                     _stars[e.StarThatChanged].FadeOut();

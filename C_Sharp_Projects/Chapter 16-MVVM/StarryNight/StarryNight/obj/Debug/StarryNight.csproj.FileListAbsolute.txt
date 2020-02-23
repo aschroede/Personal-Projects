@@ -22,3 +22,27 @@ D:\Documents\Business\C_Sharp_Projects\Chapter 16\StarryNight\StarryNight\bin\De
 D:\Documents\Business\C_Sharp_Projects\Chapter 16\StarryNight\StarryNight\bin\Debug\Bee animation 3.png
 D:\Documents\Business\C_Sharp_Projects\Chapter 16\StarryNight\StarryNight\bin\Debug\Bee animation 4.png
 D:\Documents\Business\C_Sharp_Projects\Chapter 16\StarryNight\StarryNight\obj\Debug\StarryNight.csprojAssemblyReference.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 16-MVVM\StarryNight\StarryNight\bin\Debug\Bee animation 1.png
+D:\Documents\Business\C_Sharp_Projects\Chapter 16-MVVM\StarryNight\StarryNight\bin\Debug\Bee animation 2.png
+D:\Documents\Business\C_Sharp_Projects\Chapter 16-MVVM\StarryNight\StarryNight\bin\Debug\Bee animation 3.png
+D:\Documents\Business\C_Sharp_Projects\Chapter 16-MVVM\StarryNight\StarryNight\bin\Debug\Bee animation 4.png
+D:\Documents\Business\C_Sharp_Projects\Chapter 16-MVVM\StarryNight\StarryNight\bin\Debug\StarryNight.exe.config
+D:\Documents\Business\C_Sharp_Projects\Chapter 16-MVVM\StarryNight\StarryNight\bin\Debug\StarryNight.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 16-MVVM\StarryNight\StarryNight\bin\Debug\StarryNight.pdb
+D:\Documents\Business\C_Sharp_Projects\Chapter 16-MVVM\StarryNight\StarryNight\obj\Debug\StarryNight.csprojAssemblyReference.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 16-MVVM\StarryNight\StarryNight\obj\Debug\View\AnimatedImage.g.cs
+D:\Documents\Business\C_Sharp_Projects\Chapter 16-MVVM\StarryNight\StarryNight\obj\Debug\View\BeesOnAStarryNight.g.cs
+D:\Documents\Business\C_Sharp_Projects\Chapter 16-MVVM\StarryNight\StarryNight\obj\Debug\View\StarControl.g.cs
+D:\Documents\Business\C_Sharp_Projects\Chapter 16-MVVM\StarryNight\StarryNight\obj\Debug\App.g.cs
+D:\Documents\Business\C_Sharp_Projects\Chapter 16-MVVM\StarryNight\StarryNight\obj\Debug\StarryNight_Content.g.cs
+D:\Documents\Business\C_Sharp_Projects\Chapter 16-MVVM\StarryNight\StarryNight\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Documents\Business\C_Sharp_Projects\Chapter 16-MVVM\StarryNight\StarryNight\obj\Debug\StarryNight_MarkupCompile.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 16-MVVM\StarryNight\StarryNight\obj\Debug\StarryNight_MarkupCompile.lref
+D:\Documents\Business\C_Sharp_Projects\Chapter 16-MVVM\StarryNight\StarryNight\obj\Debug\View\AnimatedImage.baml
+D:\Documents\Business\C_Sharp_Projects\Chapter 16-MVVM\StarryNight\StarryNight\obj\Debug\View\BeesOnAStarryNight.baml
+D:\Documents\Business\C_Sharp_Projects\Chapter 16-MVVM\StarryNight\StarryNight\obj\Debug\View\StarControl.baml
+D:\Documents\Business\C_Sharp_Projects\Chapter 16-MVVM\StarryNight\StarryNight\obj\Debug\StarryNight.g.resources
+D:\Documents\Business\C_Sharp_Projects\Chapter 16-MVVM\StarryNight\StarryNight\obj\Debug\StarryNight.Properties.Resources.resources
+D:\Documents\Business\C_Sharp_Projects\Chapter 16-MVVM\StarryNight\StarryNight\obj\Debug\StarryNight.csproj.GenerateResource.cache
+D:\Documents\Business\C_Sharp_Projects\Chapter 16-MVVM\StarryNight\StarryNight\obj\Debug\StarryNight.exe
+D:\Documents\Business\C_Sharp_Projects\Chapter 16-MVVM\StarryNight\StarryNight\obj\Debug\StarryNight.pdb
